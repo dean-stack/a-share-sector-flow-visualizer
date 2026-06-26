@@ -1,6 +1,10 @@
 data/snapshots/*.json
 data/constituents/*.json
 data/constituent-checkpoints/*.json
+data/cache/
 __pycache__/
 *.pyc
 *.log
+_work_raicom_patch/
+raicom_park_final_patch_smart_car.zip
+node_modules/
