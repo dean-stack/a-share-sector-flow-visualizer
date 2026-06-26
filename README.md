@@ -36,6 +36,14 @@
 项目需要本机安装 Node.js。
 
 ```powershell
+git clone https://github.com/dean-stack/a-share-sector-flow-visualizer.git
+cd a-share-sector-flow-visualizer
+npm start
+```
+
+如果你已经下载了项目源码，也可以直接在项目目录执行：
+
+```powershell
 npm start
 ```
 
@@ -46,6 +54,53 @@ http://localhost:3100
 ```
 
 如果 `3100` 端口被占用，服务会自动尝试下一个可用端口，并在终端里打印最终地址。
+
+也可以手动指定端口：
+
+```powershell
+$env:PORT="3200"
+npm start
+```
+
+## 数据源怎么切换
+
+页面里的“学习模式”就是主要的数据源策略开关：
+
+- **东财体系优先**：优先保持东方财富板块口径一致。实时失败后只回退到同体系历史快照，不主动切到新浪，适合学习同一套板块分类。
+- **实时优先**：优先保证当天数据尽量可用。东方财富失败后，会尝试新浪财经候补源；如果仍失败，再回退到本地快照。
+
+需要注意：不同平台的板块分类口径可能不完全一致，所以“实时优先”更适合看可用性，“东财体系优先”更适合做口径稳定的复盘。
+
+## 部署方式
+
+### 方式一：普通 Node.js 运行
+
+这是最简单的方式，适合自己电脑、云服务器或内网机器：
+
+```powershell
+npm start
+```
+
+如果要长期运行，可以用你熟悉的进程管理工具，例如 PM2、systemd、Windows 任务计划程序或服务器面板。
+
+### 方式二：Docker 运行
+
+仓库里已经包含 `Dockerfile`：
+
+```powershell
+docker build -t a-share-sector-flow-visualizer .
+docker run --rm -p 3100:3100 a-share-sector-flow-visualizer
+```
+
+然后打开：
+
+```text
+http://localhost:3100
+```
+
+### 方式三：部署到公网服务器
+
+可以把它部署到 VPS、云服务器或内网服务器上，再通过 Nginx/Caddy 做反向代理。因为这个项目需要后端去请求公开数据接口，所以不适合只当作纯静态网页直接丢到 GitHub Pages。
 
 ## 主要文件
 
@@ -58,6 +113,8 @@ http://localhost:3100
 - `docs/overview.png`：README 顶部概览效果图。
 - `docs/source-strategy.png`：筛选面板和数据源策略效果图。
 - `docs/flow-chart.png`：主力资金曲线和板块速览效果图。
+- `.env.example`：可选环境变量示例。
+- `Dockerfile`：容器化部署文件。
 
 ## 数据说明
 
@@ -69,6 +126,17 @@ http://localhost:3100
 - 新浪财经板块资金：部分场景下的实时候补源。
 - 本地历史快照：实时接口失败时的最终兜底。
 - 同花顺板块详情页：用于按需加载部分板块成分股信息。
+
+## 当前限制和后续改进
+
+这个项目现在已经可以作为本地可视化工具使用，但如果希望给更多人稳定使用，还可以继续完善：
+
+- **首次运行没有历史快照**：仓库默认不提交 `data/` 缓存。别人第一次运行时，如果公开实时接口失败，页面可能没有可用快照。后续可以加入一份脱敏示例数据，或者提供“一键生成演示数据”的脚本。
+- **公开接口稳定性不可控**：东方财富、新浪、同花顺的公开网页接口可能限流、变更字段或临时不可用。后续可以做更清晰的错误提示、重试策略和数据源健康检查。
+- **数据源口径会漂移**：不同平台的板块分类不完全一致。现在用“东财体系优先 / 实时优先”来控制取舍，后续可以把口径差异做成更明确的说明面板。
+- **图表库来自 CDN**：前端目前通过 jsDelivr 加载 ECharts。普通联网环境可以直接使用；如果要在完全离线环境部署，后续应该把 ECharts 固定到本地依赖。
+- **生产部署还比较轻量**：目前适合单机运行。后续可以补充缓存清理策略、日志分级、健康检查接口和更完整的部署模板。
+- **通达信桥接是可选能力**：`tdx_bridge.py` 依赖本机通达信目录，别人没有通达信也能使用主页面，但相关本地行情能力不会生效。需要时可通过 `TDX_HOME` 和 `TDX_PYTHON` 环境变量配置。
 
 ## 适合谁用
 
@@ -118,6 +186,14 @@ It is useful for:
 Node.js is required.
 
 ```powershell
+git clone https://github.com/dean-stack/a-share-sector-flow-visualizer.git
+cd a-share-sector-flow-visualizer
+npm start
+```
+
+If you already have the source code, run this in the project directory:
+
+```powershell
 npm start
 ```
 
@@ -128,6 +204,53 @@ http://localhost:3100
 ```
 
 If port `3100` is occupied, the server will try the next available port and print the final URL in the terminal.
+
+You can also choose a port explicitly:
+
+```powershell
+$env:PORT="3200"
+npm start
+```
+
+## Switching Data Sources
+
+The “learning mode” selector controls the main data-source strategy:
+
+- **Eastmoney-first taxonomy mode**: keeps the Eastmoney sector taxonomy stable. If live requests fail, the app falls back only to compatible Eastmoney snapshots instead of switching to Sina.
+- **Realtime-first mode**: prioritizes live availability. If Eastmoney fails, the app tries Sina as a live fallback, then falls back to local snapshots.
+
+Different platforms can classify sectors differently, so realtime-first mode is better for availability, while Eastmoney-first mode is better for stable review.
+
+## Deployment
+
+### Option 1: Plain Node.js
+
+This is the simplest option for a local machine, VPS, cloud server, or internal server:
+
+```powershell
+npm start
+```
+
+For long-running use, pair it with a process manager such as PM2, systemd, Windows Task Scheduler, or your server control panel.
+
+### Option 2: Docker
+
+The repository includes a `Dockerfile`:
+
+```powershell
+docker build -t a-share-sector-flow-visualizer .
+docker run --rm -p 3100:3100 a-share-sector-flow-visualizer
+```
+
+Then open:
+
+```text
+http://localhost:3100
+```
+
+### Option 3: Public Server
+
+You can deploy it to a VPS, cloud server, or internal server and put Nginx/Caddy in front of it. Because the app needs a backend server to request public data endpoints, it is not suitable as a GitHub Pages-only static site.
 
 ## Project Files
 
@@ -140,6 +263,8 @@ If port `3100` is occupied, the server will try the next available port and prin
 - `docs/overview.png`: overview screenshot used near the top of this README.
 - `docs/source-strategy.png`: filters and source strategy screenshot.
 - `docs/flow-chart.png`: main flow chart and sector ranking screenshot.
+- `.env.example`: optional environment variable examples.
+- `Dockerfile`: container deployment file.
 
 ## Data Notes
 
@@ -151,6 +276,17 @@ Current source strategy:
 - Sina sector flow: optional live fallback in supported scenarios.
 - Local snapshots: final fallback when live data is unavailable.
 - Tonghuashun sector pages: on-demand source for some constituent details.
+
+## Current Limitations and Roadmap
+
+The project is already usable as a local visualization tool, but it can still be improved for wider public use:
+
+- **No bundled historical snapshots on first run**: `data/` is ignored by Git. If live public endpoints fail on a fresh machine, the app may not have a local fallback yet. A future improvement could add sanitized demo data or a one-command demo-data generator.
+- **Public endpoints are not fully reliable**: Eastmoney, Sina, and Tonghuashun public web endpoints may be rate-limited, delayed, unavailable, or changed by upstream providers. Better error messages, retry controls, and source health checks would help.
+- **Sector taxonomy may drift across providers**: different platforms do not always classify sectors identically. The current strategy selector makes the tradeoff explicit, but future versions could explain taxonomy differences more clearly in the UI.
+- **The chart library is loaded from a CDN**: the frontend currently loads ECharts from jsDelivr. It works in normal online environments; for fully offline deployment, ECharts should be pinned as a local dependency.
+- **Production deployment is still lightweight**: the app is currently designed for single-machine use. Cache cleanup, structured logs, health checks, and richer deployment templates would make it more production-ready.
+- **Tongdaxin integration is optional**: `tdx_bridge.py` depends on a local Tongdaxin installation. The main page works without it, but local market helper features require `TDX_HOME` and `TDX_PYTHON` configuration.
 
 ## Who This Is For
 

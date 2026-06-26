@@ -15,11 +15,9 @@ const constituentCheckpointDir = path.join(__dirname, "data", "constituent-check
 const tdxBridgePath = path.join(__dirname, "tdx_bridge.py");
 const execFileAsync = promisify(execFile);
 
-const PORT = Number(globalThis.process?.env?.PORT || 3100);
+const START_PORT = Number(globalThis.process?.env?.PORT || 3100);
 const TDX_HOME = globalThis.process?.env?.TDX_HOME || "C:\\new_tdx";
-const TDX_PYTHON =
-  globalThis.process?.env?.TDX_PYTHON ||
-  "C:\\Users\\yao\\AppData\\Local\\Programs\\Python\\Python313\\python.exe";
+const TDX_PYTHON = globalThis.process?.env?.TDX_PYTHON || "python";
 const TDX_CACHE_DIR = path.join(TDX_HOME, "T0002", "hq_cache");
 const TDX_LOCAL_FILES = {
   concepts: path.join(TDX_CACHE_DIR, "spblock.dat"),
@@ -2167,6 +2165,25 @@ const server = createServer(async (req, res) => {
   }
 });
 
-server.listen(PORT, () => {
-  console.log(`A-share sector flow app is running at http://localhost:${PORT}`);
+let activePort = START_PORT;
+let remainingPortAttempts = 20;
+
+server.on("error", (error) => {
+  if (error?.code === "EADDRINUSE" && remainingPortAttempts > 0) {
+    const nextPort = activePort + 1;
+    remainingPortAttempts -= 1;
+    console.warn(`Port ${activePort} is in use, trying ${nextPort}...`);
+    activePort = nextPort;
+    server.listen(activePort);
+    return;
+  }
+  throw error;
 });
+
+server.on("listening", () => {
+  const address = server.address();
+  const port = typeof address === "object" && address ? address.port : activePort;
+  console.log(`A-share sector flow app is running at http://localhost:${port}`);
+});
+
+server.listen(activePort);
