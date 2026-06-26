@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A股板块资金流向可视化</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">A-share Sector Flow Studio</p>
+          <h1>板块资金流向可视化</h1>
+          <p class="hero-text">
+            看每一刻资金是怎么推着板块往上走、往下砸。支持时间滑条、自动播放、当天刷新和历史回看，电脑与手机都能用。
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="meta-pill">
+            <span>交易日期</span>
+            <strong id="tradeDate">--</strong>
+          </div>
+          <div class="meta-pill">
+            <span>当前时刻</span>
+            <strong id="updatedTime">--</strong>
+          </div>
+          <div class="meta-pill">
+            <span>数据源</span>
+            <strong>东方财富公开接口</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="toolbar">
+        <div class="toolbar-row">
+          <div class="toolbar-group" id="categoryGroup">
+            <button class="chip is-active" data-category="concept">概念</button>
+            <button class="chip" data-category="industry">行业</button>
+            <button class="chip" data-category="region">地域</button>
+          </div>
+          <div class="toolbar-group" id="modeGroup">
+            <button class="chip is-active" data-mode="balanced">多空对照</button>
+            <button class="chip" data-mode="inflow">净流入领先</button>
+            <button class="chip" data-mode="outflow">净流出领先</button>
+          </div>
+        </div>
+
+        <div class="toolbar-row toolbar-row-controls">
+          <label class="select-wrap">
+            <span>学习模式</span>
+            <select id="policySelect">
+              <option value="taxonomy" selected>东财体系优先</option>
+              <option value="realtime">实时优先</option>
+            </select>
+          </label>
+          <label class="select-wrap">
+            <span>展示数量</span>
+            <select id="limitSelect">
+              <option value="8">8 条</option>
+              <option value="12" selected>12 条</option>
+              <option value="16">16 条</option>
+            </select>
+          </label>
+
+          <label class="select-wrap">
+            <span>历史日期</span>
+            <select id="dateSelect"></select>
+          </label>
+
+          <button class="action-btn" id="refreshButton" type="button">刷新当天</button>
+        </div>
+      </section>
+
+      <section class="panel strategy-panel">
+        <div class="panel-head compact">
+          <div>
+            <p class="panel-kicker">Source Strategy</p>
+            <h3>数据源策略体验</h3>
+          </div>
+          <div class="panel-note">
+            <span id="strategyHint">正在读取当前数据源策略...</span>
+          </div>
+        </div>
+        <div id="strategyList" class="strategy-list"></div>
+      </section>
+
+      <main class="content-grid">
+        <section class="chart-panel panel">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker" id="chartKicker">概念板块</p>
+              <h2 id="chartTitle">日内主力净流入曲线</h2>
+            </div>
+            <div class="panel-note">
+              <span id="loadingState">准备加载</span>
+            </div>
+          </div>
+
+          <div class="playback-bar">
+            <button class="play-btn" id="playButton" type="button" aria-label="播放回放">播放</button>
+            <div class="playback-info">
+              <strong id="playbackTime">--</strong>
+              <span id="playbackStatus">从开盘累计到当前时刻</span>
+            </div>
+            <input id="timeSlider" class="time-slider" type="range" min="0" max="0" value="0" step="1" />
+          </div>
+
+          <div id="chart" class="chart"></div>
+        </section>
+
+        <aside class="summary-column">
+          <section class="panel stat-panel">
+            <div class="panel-head compact">
+              <h3>最强与最弱</h3>
+            </div>
+            <div class="duel-grid">
+              <article class="duel-card up">
+                <span>当前最强流入</span>
+                <strong id="strongestName">--</strong>
+                <em id="strongestValue">--</em>
+              </article>
+              <article class="duel-card down">
+                <span>当前最弱流出</span>
+                <strong id="weakestName">--</strong>
+                <em id="weakestValue">--</em>
+              </article>
+            </div>
+          </section>
+
+          <section class="panel rank-panel">
+            <div class="panel-head compact">
+              <h3>板块速览</h3>
+            </div>
+            <div id="boardList" class="board-list"></div>
+          </section>
+        </aside>
+      </main>
+
+      <section class="panel constituents-panel">
+        <div class="panel-head">
+          <div>
+            <p class="panel-kicker">成分股明细</p>
+            <h2 id="constituentsTitle">点击板块查看成分股</h2>
+          </div>
+          <div class="panel-note">
+            <span id="constituentsMeta">按需加载，减少请求频率</span>
+          </div>
+        </div>
+        <div id="constituentsSummary" class="constituents-summary">
+          <article class="constituent-stat">
+            <span>成分股数</span>
+            <strong id="constituentsCount">--</strong>
+          </article>
+          <article class="constituent-stat">
+            <span>净流入为正</span>
+            <strong id="constituentsPositive">--</strong>
+          </article>
+          <article class="constituent-stat">
+            <span>净流出为负</span>
+            <strong id="constituentsNegative">--</strong>
+          </article>
+        </div>
+        <div id="constituentsTable" class="constituents-table"></div>
+      </section>
+
+      <footer class="footer-note panel">
+        <p>
+          说明：滑条会把图固定到某一时刻，并显示从开盘累计到该时刻的主力净流入。播放按钮会沿着时间轴自动推进，刷新当天会重新拉最新交易日数据并写入本地历史快照。
+        </p>
+        <p>
+          公开来源：
+          <a href="https://data.eastmoney.com/bkzj/" target="_blank" rel="noreferrer">东方财富板块资金页</a>
+          与
+          <a href="https://quote.eastmoney.com/" target="_blank" rel="noreferrer">东方财富行情中心</a>
+        </p>
+      </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.6.0/dist/echarts.min.js"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>

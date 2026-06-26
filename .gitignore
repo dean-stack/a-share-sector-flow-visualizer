@@ -1,0 +1,6 @@
+data/snapshots/*.json
+data/constituents/*.json
+data/constituent-checkpoints/*.json
+__pycache__/
+*.pyc
+*.log
