@@ -2,7 +2,7 @@
 
 一个用于观察 A 股板块资金流向的本地 Web 应用。它把板块资金排行、日内主力资金曲线、历史快照和成分股明细放在同一个界面里，适合用来复盘资金在不同板块之间的流动节奏。
 
-![应用效果图](docs/app-preview.png)
+![应用顶部概览](docs/overview.png)
 
 ## 这个项目做什么
 
@@ -16,6 +16,8 @@
 - 点击板块后查看成分股，理解板块内部由哪些股票带动
 - 在实时接口失败时，用本地历史快照继续查看页面效果
 
+![筛选与数据源策略](docs/source-strategy.png)
+
 ## 核心功能
 
 - **板块视图**：支持概念、行业、地域三类板块。
@@ -26,6 +28,8 @@
 - **历史回看**：支持本地历史快照，方便复盘和演示。
 - **数据源策略**：优先使用东方财富公开接口，部分场景可使用新浪财经候补。
 - **成分股明细**：点击板块后按需加载成分股，减少不必要的请求。
+
+![主力资金曲线与板块速览](docs/flow-chart.png)
 
 ## 本地运行
 
@@ -51,7 +55,9 @@ http://localhost:3100
 - `public/styles.css`：页面样式。
 - `tdx_bridge.py`：可选的通达信桥接辅助脚本。
 - `data/`：本地缓存和历史快照目录，默认不提交到 Git。
-- `docs/app-preview.png`：README 中展示的项目效果图。
+- `docs/overview.png`：README 顶部概览效果图。
+- `docs/source-strategy.png`：筛选面板和数据源策略效果图。
+- `docs/flow-chart.png`：主力资金曲线和板块速览效果图。
 
 ## 数据说明
 
@@ -78,7 +84,7 @@ http://localhost:3100
 
 A local web app for visualizing A-share sector money flow. It combines sector rankings, intraday main-fund flow curves, historical snapshots, and on-demand constituent stock details in one interface, making it easier to review how capital rotates between sectors.
 
-![App Preview](docs/app-preview.png)
+![App Overview](docs/overview.png)
 
 ## What It Does
 
@@ -92,6 +98,8 @@ It is useful for:
 - Opening a sector to inspect its constituent stocks
 - Demonstrating the UI with local snapshots when live data is unavailable
 
+![Filters and Source Strategy](docs/source-strategy.png)
+
 ## Features
 
 - **Sector views**: concept, industry, and region sectors.
@@ -102,6 +110,8 @@ It is useful for:
 - **Historical snapshots**: review previously captured local data.
 - **Source strategy**: Eastmoney as the primary source, with optional Sina fallback.
 - **Constituent details**: load sector constituents on demand.
+
+![Main Flow Chart and Sector Ranking](docs/flow-chart.png)
 
 ## Run Locally
 
@@ -127,7 +137,9 @@ If port `3100` is occupied, the server will try the next available port and prin
 - `public/styles.css`: page styling.
 - `tdx_bridge.py`: optional Tongdaxin bridge helper.
 - `data/`: local cache and historical snapshots, ignored by Git by default.
-- `docs/app-preview.png`: preview image used in this README.
+- `docs/overview.png`: overview screenshot used near the top of this README.
+- `docs/source-strategy.png`: filters and source strategy screenshot.
+- `docs/flow-chart.png`: main flow chart and sector ranking screenshot.
 
 ## Data Notes
 
