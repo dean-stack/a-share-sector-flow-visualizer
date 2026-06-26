@@ -26,7 +26,9 @@
 - **时间滑条**：可以把图表固定到某一时刻，观察当时的板块强弱。
 - **自动播放**：沿着时间轴播放资金变化过程。
 - **历史回看**：支持本地历史快照，方便复盘和演示。
-- **数据源策略**：优先使用东方财富公开接口，部分场景可使用新浪财经候补。
+- **演示数据模式**：内置一份轻量演示数据，首次运行也能直接看到完整效果。
+- **数据源策略**：支持演示数据、口径稳定和实时优先三种模式。
+- **本地图表依赖**：ECharts 通过 npm 安装并由本地服务提供，不再依赖外部 CDN。
 - **成分股明细**：点击板块后按需加载成分股，减少不必要的请求。
 
 ![主力资金曲线与板块速览](docs/flow-chart.png)
@@ -38,6 +40,7 @@
 ```powershell
 git clone https://github.com/dean-stack/a-share-sector-flow-visualizer.git
 cd a-share-sector-flow-visualizer
+npm install
 npm start
 ```
 
@@ -64,12 +67,13 @@ npm start
 
 ## 数据源怎么切换
 
-页面里的“学习模式”就是主要的数据源策略开关：
+页面里的“数据策略”就是主要的数据源开关：
 
-- **东财体系优先**：优先保持东方财富板块口径一致。实时失败后只回退到同体系历史快照，不主动切到新浪，适合学习同一套板块分类。
-- **实时优先**：优先保证当天数据尽量可用。东方财富失败后，会尝试新浪财经候补源；如果仍失败，再回退到本地快照。
+- **演示数据模式**：默认模式。直接使用仓库内置的轻量演示数据，不请求外部接口，适合首次运行、离线演示和 README 展示。
+- **口径稳定模式**：优先保持东方财富板块口径一致。实时失败后只回退到同体系历史快照，不主动切到新浪，适合学习同一套板块分类。
+- **实时优先模式**：优先保证当天数据尽量可用。东方财富失败后，会尝试新浪财经候补源；如果仍失败，再回退到本地快照。
 
-需要注意：不同平台的板块分类口径可能不完全一致，所以“实时优先”更适合看可用性，“东财体系优先”更适合做口径稳定的复盘。
+需要注意：不同平台的板块分类口径可能不完全一致，所以“实时优先模式”更适合看可用性，“口径稳定模式”更适合做同一口径复盘。
 
 ## 部署方式
 
@@ -109,7 +113,8 @@ http://localhost:3100
 - `public/app.js`：前端交互、图表渲染、时间轴和板块列表逻辑。
 - `public/styles.css`：页面样式。
 - `tdx_bridge.py`：可选的通达信桥接辅助脚本。
-- `data/`：本地缓存和历史快照目录，默认不提交到 Git。
+- `data/demo/`：内置演示数据，提交到 Git，保证首次运行可见效果。
+- `data/snapshots/`：本地实时快照缓存，默认不提交到 Git。
 - `docs/overview.png`：README 顶部概览效果图。
 - `docs/source-strategy.png`：筛选面板和数据源策略效果图。
 - `docs/flow-chart.png`：主力资金曲线和板块速览效果图。
@@ -122,19 +127,26 @@ http://localhost:3100
 
 当前数据源策略包括：
 
+- 内置演示数据：默认模式，用于首次运行、离线展示和 README 效果复现。
 - 东方财富板块资金：主要数据源。
 - 新浪财经板块资金：部分场景下的实时候补源。
 - 本地历史快照：实时接口失败时的最终兜底。
 - 同花顺板块详情页：用于按需加载部分板块成分股信息。
 
+项目还提供健康检查接口：
+
+```text
+http://localhost:3100/api/health
+```
+
 ## 当前限制和后续改进
 
 这个项目现在已经可以作为本地可视化工具使用，但如果希望给更多人稳定使用，还可以继续完善：
 
-- **首次运行没有历史快照**：仓库默认不提交 `data/` 缓存。别人第一次运行时，如果公开实时接口失败，页面可能没有可用快照。后续可以加入一份脱敏示例数据，或者提供“一键生成演示数据”的脚本。
+- **演示数据不代表实时行情**：默认模式使用仓库内置的压缩演示数据，只用于展示交互效果。要看当天行情，需要切换到“口径稳定模式”或“实时优先模式”。
 - **公开接口稳定性不可控**：东方财富、新浪、同花顺的公开网页接口可能限流、变更字段或临时不可用。后续可以做更清晰的错误提示、重试策略和数据源健康检查。
-- **数据源口径会漂移**：不同平台的板块分类不完全一致。现在用“东财体系优先 / 实时优先”来控制取舍，后续可以把口径差异做成更明确的说明面板。
-- **图表库来自 CDN**：前端目前通过 jsDelivr 加载 ECharts。普通联网环境可以直接使用；如果要在完全离线环境部署，后续应该把 ECharts 固定到本地依赖。
+- **数据源口径会漂移**：不同平台的板块分类不完全一致。现在用“口径稳定模式 / 实时优先模式”来控制取舍，后续可以把口径差异做成更明确的说明面板。
+- **图表库已本地化，但仍需安装依赖**：ECharts 已经通过 npm 固定为本地依赖。普通 Node.js 运行前需要执行 `npm install`，Docker 会在构建时自动安装。
 - **生产部署还比较轻量**：目前适合单机运行。后续可以补充缓存清理策略、日志分级、健康检查接口和更完整的部署模板。
 - **通达信桥接是可选能力**：`tdx_bridge.py` 依赖本机通达信目录，别人没有通达信也能使用主页面，但相关本地行情能力不会生效。需要时可通过 `TDX_HOME` 和 `TDX_PYTHON` 环境变量配置。
 
@@ -176,7 +188,9 @@ It is useful for:
 - **Timeline slider**: freeze the chart at a specific intraday moment.
 - **Playback**: replay the flow timeline automatically.
 - **Historical snapshots**: review previously captured local data.
-- **Source strategy**: Eastmoney as the primary source, with optional Sina fallback.
+- **Demo data mode**: bundled lightweight demo data makes the first run useful even when live endpoints fail.
+- **Source strategy**: demo data, stable taxonomy mode, and realtime-first mode.
+- **Local chart dependency**: ECharts is installed through npm and served locally instead of relying on an external CDN.
 - **Constituent details**: load sector constituents on demand.
 
 ![Main Flow Chart and Sector Ranking](docs/flow-chart.png)
@@ -188,6 +202,7 @@ Node.js is required.
 ```powershell
 git clone https://github.com/dean-stack/a-share-sector-flow-visualizer.git
 cd a-share-sector-flow-visualizer
+npm install
 npm start
 ```
 
@@ -214,12 +229,13 @@ npm start
 
 ## Switching Data Sources
 
-The “learning mode” selector controls the main data-source strategy:
+The “data strategy” selector controls the main data-source strategy:
 
-- **Eastmoney-first taxonomy mode**: keeps the Eastmoney sector taxonomy stable. If live requests fail, the app falls back only to compatible Eastmoney snapshots instead of switching to Sina.
+- **Demo data mode**: the default mode. It uses bundled lightweight demo data and does not request external market endpoints, making first-run and offline demos reliable.
+- **Stable taxonomy mode**: keeps the Eastmoney sector taxonomy stable. If live requests fail, the app falls back only to compatible Eastmoney snapshots instead of switching to Sina.
 - **Realtime-first mode**: prioritizes live availability. If Eastmoney fails, the app tries Sina as a live fallback, then falls back to local snapshots.
 
-Different platforms can classify sectors differently, so realtime-first mode is better for availability, while Eastmoney-first mode is better for stable review.
+Different platforms can classify sectors differently, so realtime-first mode is better for availability, while stable taxonomy mode is better for same-taxonomy review.
 
 ## Deployment
 
@@ -259,7 +275,8 @@ You can deploy it to a VPS, cloud server, or internal server and put Nginx/Caddy
 - `public/app.js`: frontend interaction, chart rendering, timeline, and sector list logic.
 - `public/styles.css`: page styling.
 - `tdx_bridge.py`: optional Tongdaxin bridge helper.
-- `data/`: local cache and historical snapshots, ignored by Git by default.
+- `data/demo/`: bundled demo data committed to Git for a reliable first-run experience.
+- `data/snapshots/`: local live snapshot cache, ignored by Git by default.
 - `docs/overview.png`: overview screenshot used near the top of this README.
 - `docs/source-strategy.png`: filters and source strategy screenshot.
 - `docs/flow-chart.png`: main flow chart and sector ranking screenshot.
@@ -272,19 +289,26 @@ This project uses public web endpoints for sector flow data. Public endpoints ma
 
 Current source strategy:
 
+- Built-in demo data: default source for first-run, offline demos, and README screenshot reproduction.
 - Eastmoney sector flow: primary source.
 - Sina sector flow: optional live fallback in supported scenarios.
 - Local snapshots: final fallback when live data is unavailable.
 - Tonghuashun sector pages: on-demand source for some constituent details.
 
+The project also provides a health-check endpoint:
+
+```text
+http://localhost:3100/api/health
+```
+
 ## Current Limitations and Roadmap
 
 The project is already usable as a local visualization tool, but it can still be improved for wider public use:
 
-- **No bundled historical snapshots on first run**: `data/` is ignored by Git. If live public endpoints fail on a fresh machine, the app may not have a local fallback yet. A future improvement could add sanitized demo data or a one-command demo-data generator.
+- **Demo data is not live market data**: the default mode uses bundled compressed demo data only to show the interaction model. Switch to stable taxonomy mode or realtime-first mode for live data.
 - **Public endpoints are not fully reliable**: Eastmoney, Sina, and Tonghuashun public web endpoints may be rate-limited, delayed, unavailable, or changed by upstream providers. Better error messages, retry controls, and source health checks would help.
 - **Sector taxonomy may drift across providers**: different platforms do not always classify sectors identically. The current strategy selector makes the tradeoff explicit, but future versions could explain taxonomy differences more clearly in the UI.
-- **The chart library is loaded from a CDN**: the frontend currently loads ECharts from jsDelivr. It works in normal online environments; for fully offline deployment, ECharts should be pinned as a local dependency.
+- **Dependencies still need installation**: ECharts is now pinned as a local npm dependency. Plain Node.js usage requires `npm install`; Docker installs dependencies during build.
 - **Production deployment is still lightweight**: the app is currently designed for single-machine use. Cache cleanup, structured logs, health checks, and richer deployment templates would make it more production-ready.
 - **Tongdaxin integration is optional**: `tdx_bridge.py` depends on a local Tongdaxin installation. The main page works without it, but local market helper features require `TDX_HOME` and `TDX_PYTHON` configuration.
 

@@ -1,6 +1,9 @@
 .git
 node_modules
-data
+data/snapshots
+data/constituents
+data/constituent-checkpoints
+data/cache
 server.*.log
 _work_raicom_patch
 raicom_park_final_patch_smart_car.zip

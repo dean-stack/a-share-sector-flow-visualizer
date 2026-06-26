@@ -10,6 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const publicDir = path.join(__dirname, "public");
 const snapshotDir = path.join(__dirname, "data", "snapshots");
+const demoDataDir = path.join(__dirname, "data", "demo");
 const constituentSnapshotDir = path.join(__dirname, "data", "constituents");
 const constituentCheckpointDir = path.join(__dirname, "data", "constituent-checkpoints");
 const tdxBridgePath = path.join(__dirname, "tdx_bridge.py");
@@ -1036,6 +1037,64 @@ async function readSnapshot({ date, category, mode, limit, sourceId = "unknown" 
   return JSON.parse(content);
 }
 
+async function readDemoPayload(category = "concept") {
+  const content = await readFile(path.join(demoDataDir, `${category}.json`), "utf8");
+  return JSON.parse(content);
+}
+
+async function buildDemoSectorPayload({ category, mode, limit }) {
+  const payload = await readDemoPayload(category).catch(() => null);
+  if (!payload) {
+    return {
+      category,
+      categoryLabel: CATEGORY_MAP[category]?.label || CATEGORY_MAP.concept.label,
+      mode,
+      requestedLimit: limit,
+      limit: 0,
+      fetchedAt: new Date().toISOString(),
+      tradeDate: getCurrentDateInChina(),
+      currentDate: getCurrentDateInChina(),
+      updatedTime: "",
+      timeline: [],
+      fromSnapshot: false,
+      demo: true,
+      unavailable: true,
+      fallbackReason: `${CATEGORY_MAP[category]?.label || category}暂未内置演示数据，请切换到口径稳定模式或实时优先模式。`,
+      source: {
+        id: "demo-snapshot",
+        provider: "内置演示数据",
+        note: "当前分类没有内置演示样例。"
+      },
+      availableDates: [],
+      boards: []
+    };
+  }
+
+  const boards = pickBoards(payload.boards || [], mode, limit);
+  const timeline = boards[0]?.series?.map((point) => point.time) || payload.timeline || [];
+  return {
+    ...payload,
+    category,
+    categoryLabel: CATEGORY_MAP[category]?.label || CATEGORY_MAP.concept.label,
+    mode,
+    requestedLimit: limit,
+    limit: boards.length,
+    fetchedAt: new Date().toISOString(),
+    currentDate: getCurrentDateInChina(),
+    timeline,
+    boards,
+    fromSnapshot: true,
+    demo: true,
+    unavailable: false,
+    source: {
+      ...(payload.source || {}),
+      id: "demo-snapshot",
+      provider: "内置演示数据"
+    },
+    availableDates: [payload.tradeDate].filter(Boolean)
+  };
+}
+
 function constituentSnapshotFileName({ date, category, boardCode }) {
   return `${date}__${category}__${boardCode}.json`;
 }
@@ -1250,6 +1309,59 @@ async function buildSourceStrategyPayloadV2({
   usingSnapshot = false,
   activeSource = "eastmoney-live"
 }) {
+  if (policy === "demo") {
+    const demoPayload = await readDemoPayload(category).catch(() => null);
+    return {
+      category,
+      mode,
+      requestedLimit: limit,
+      snapshot: {
+        availableLimits: demoPayload ? [Math.min(limit, demoPayload.boards?.length || limit)] : [],
+        exactMatch: Boolean(demoPayload),
+        bestFallbackLimit: demoPayload ? Math.min(limit, demoPayload.boards?.length || limit) : null,
+        latestDate: demoPayload?.tradeDate || null
+      },
+      sources: [
+        {
+          id: "demo-snapshot",
+          name: "内置演示数据",
+          role: "演示源",
+          status: demoPayload ? "active" : "empty",
+          capabilities: "首次运行展示 + 离线演示 + 交互体验",
+          note: demoPayload
+            ? "当前页面使用仓库内置演示数据，不请求外部行情接口。"
+            : "演示数据文件缺失。"
+        },
+        {
+          id: "eastmoney-live",
+          name: "东方财富板块资金",
+          role: "主源",
+          status: "standby",
+          capabilities: "板块排行 + 日内主力资金曲线",
+          note: "切换到口径稳定或实时优先后才会请求。"
+        },
+        {
+          id: "sina-live",
+          name: "新浪财经板块资金",
+          role: "候补实时源",
+          status: "standby",
+          capabilities: "概念/行业板块排行 + 板块分时资金",
+          note: "实时优先模式下，东方财富失败后会尝试新浪候补。"
+        },
+        {
+          id: "ths-constituents",
+          name: "同花顺板块详情页",
+          role: "成分股来源",
+          status: "standby",
+          capabilities: "概念/行业成分股明细",
+          note: "演示模式不会主动请求成分股详情。"
+        }
+      ],
+      recommendation:
+        "当前是演示数据模式：不依赖外部接口，适合首次运行、README 展示和离线演示。"
+    };
+  }
+
   const allowedSources = policy === "taxonomy" ? ["eastmoney-live"] : null;
   const { coverage, latestDateByGroup } = await getSnapshotCoverage({ allowedSources });
   const availableLimits = coverage[category]?.[mode] || [];
@@ -1262,8 +1374,8 @@ async function buildSourceStrategyPayloadV2({
   if (policy === "taxonomy") {
     recommendation =
       activeSource === "local-snapshot"
-        ? "当前是东财体系优先模式：实时失败后只回退到同体系历史快照，不切新浪，方便学习同一套板块口径。"
-        : "当前是东财体系优先模式：优先保证板块划分口径一致，更适合复盘和学习。";
+        ? "当前是口径稳定模式：实时失败后只回退到同体系历史快照，不切新浪，方便学习同一套板块口径。"
+        : "当前是口径稳定模式：优先保证板块划分口径一致，更适合复盘和学习。";
   } else if (activeSource === "sina-live") {
     recommendation = "当前正在使用新浪财经实时候补源，东方财富失败后已自动切换。";
   } else if (activeSource === "local-snapshot") {
@@ -1623,6 +1735,10 @@ async function buildUnavailableSectorPayload({ category, mode, limit, reason }) 
 }
 
 async function buildSectorPayload({ category, mode, limit, date, refresh, policy = "taxonomy" }) {
+  if (policy === "demo") {
+    return buildDemoSectorPayload({ category, mode, limit });
+  }
+
   const currentDate = getCurrentDateInChina();
   const explicitlySelectedHistory = Boolean(date && date !== "today");
   const isToday = !date || date === "today" || (!explicitlySelectedHistory && date === currentDate);
@@ -1952,7 +2068,7 @@ function sanitizeMode(value) {
 }
 
 function sanitizePolicy(value) {
-  if (value === "realtime" || value === "taxonomy") {
+  if (value === "realtime" || value === "taxonomy" || value === "demo") {
     return value;
   }
   return "taxonomy";
@@ -2007,14 +2123,22 @@ const server = createServer(async (req, res) => {
         const sinaSource = payload.sources.find((item) => item.id === "sina-live");
         if (sinaSource) {
           sinaSource.status = "disabled";
-          sinaSource.note = "你当前选择了东财体系优先，新浪候补被关闭，避免板块划分口径漂移。";
+          sinaSource.note = "你当前选择了口径稳定模式，新浪候补被关闭，避免板块划分口径漂移。";
         }
         payload.recommendation =
           activeSource === "local-snapshot"
-            ? "当前是东财体系优先模式：实时失败后只回退到同体系历史快照，不切新浪，方便学习同一套板块口径。"
-            : "当前是东财体系优先模式：优先保证板块划分口径一致，更适合复盘和学习。";
+            ? "当前是口径稳定模式：实时失败后只回退到同体系历史快照，不切新浪，方便学习同一套板块口径。"
+            : "当前是口径稳定模式：优先保证板块划分口径一致，更适合复盘和学习。";
       }
       return json(res, 200, payload);
+    }
+
+    if (url.pathname === "/api/health") {
+      return json(res, 200, {
+        ok: true,
+        name: "a-share-sector-flow-visualizer",
+        time: new Date().toISOString()
+      });
     }
 
     if (url.pathname === "/api/network-health") {
@@ -2023,6 +2147,10 @@ const server = createServer(async (req, res) => {
         upstreamCount: Object.keys(UPSTREAMS).length,
         circuitBreaker: CIRCUIT_BREAKER_CONFIG
       });
+    }
+
+    if (url.pathname === "/vendor/echarts.min.js") {
+      return sendFile(res, path.join(__dirname, "node_modules", "echarts", "dist", "echarts.min.js"));
     }
 
     if (url.pathname === "/api/tdx/health") {

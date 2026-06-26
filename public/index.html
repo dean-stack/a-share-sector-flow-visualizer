@@ -48,10 +48,11 @@
 
         <div class="toolbar-row toolbar-row-controls">
           <label class="select-wrap">
-            <span>学习模式</span>
+            <span>数据策略</span>
             <select id="policySelect">
-              <option value="taxonomy" selected>东财体系优先</option>
-              <option value="realtime">实时优先</option>
+              <option value="demo" selected>演示数据模式</option>
+              <option value="taxonomy">口径稳定模式</option>
+              <option value="realtime">实时优先模式</option>
             </select>
           </label>
           <label class="select-wrap">
@@ -166,7 +167,7 @@
 
       <footer class="footer-note panel">
         <p>
-          说明：滑条会把图固定到某一时刻，并显示从开盘累计到该时刻的主力净流入。播放按钮会沿着时间轴自动推进，刷新当天会重新拉最新交易日数据并写入本地历史快照。
+          说明：滑条会把图固定到某一时刻，并显示从开盘累计到该时刻的主力净流入。演示数据模式不请求外部接口；口径稳定模式优先保持东方财富板块口径；实时优先模式会在主源失败时尝试候补源。
         </p>
         <p>
           公开来源：
@@ -177,7 +178,7 @@
       </footer>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/echarts@5.6.0/dist/echarts.min.js"></script>
+    <script src="/vendor/echarts.min.js"></script>
     <script src="/app.js"></script>
   </body>
 </html>

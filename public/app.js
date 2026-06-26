@@ -2,7 +2,7 @@ const state = {
   category: "concept",
   mode: "balanced",
   limit: 12,
-  policy: "taxonomy",
+  policy: "demo",
   selectedDate: "today",
   currentDate: "",
   payload: null,
@@ -610,9 +610,11 @@ async function loadData({ refresh = false } = {}) {
 
     setFrameIndex(frameIndex);
 
-    const baseStatus = payload.fromSnapshot
-      ? `历史快照 · ${payload.tradeDate}`
-      : `已更新 · ${payload.updatedTime || payload.fetchedAt.slice(11, 16)}`;
+    const baseStatus = payload.demo
+      ? `演示数据 · ${payload.tradeDate}`
+      : payload.fromSnapshot
+        ? `历史快照 · ${payload.tradeDate}`
+        : `已更新 · ${payload.updatedTime || payload.fetchedAt.slice(11, 16)}`;
     const statusNotes = [];
 
     if (payload.fallbackReason) {
@@ -626,7 +628,11 @@ async function loadData({ refresh = false } = {}) {
     refs.loadingState.textContent = [baseStatus, ...statusNotes].join(" · ");
     await loadSourceStrategy(
       payload.fromSnapshot,
-      payload.fromSnapshot ? "local-snapshot" : payload.source?.id || "eastmoney-live"
+      payload.demo
+        ? "demo-snapshot"
+        : payload.fromSnapshot
+          ? "local-snapshot"
+          : payload.source?.id || "eastmoney-live"
     );
   } catch (error) {
     refs.loadingState.textContent = "加载失败";

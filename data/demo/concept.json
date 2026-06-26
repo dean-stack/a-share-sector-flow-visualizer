@@ -1,0 +1,5520 @@
+{
+  "category": "concept",
+  "categoryLabel": "概念",
+  "mode": "balanced",
+  "requestedLimit": 12,
+  "limit": 12,
+  "fetchedAt": "2026-06-26T14:58:17.967Z",
+  "tradeDate": "2026-06-26",
+  "currentDate": "2026-06-26",
+  "updatedTime": "15:00",
+  "timeline": [
+    "09:31",
+    "09:36",
+    "09:41",
+    "09:46",
+    "09:51",
+    "09:56",
+    "10:01",
+    "10:06",
+    "10:11",
+    "10:16",
+    "10:21",
+    "10:26",
+    "10:31",
+    "10:36",
+    "10:41",
+    "10:46",
+    "10:51",
+    "10:56",
+    "11:01",
+    "11:06",
+    "11:11",
+    "11:16",
+    "11:21",
+    "11:26",
+    "13:01",
+    "13:06",
+    "13:11",
+    "13:16",
+    "13:21",
+    "13:26",
+    "13:31",
+    "13:36",
+    "13:41",
+    "13:46",
+    "13:51",
+    "13:56",
+    "14:01",
+    "14:06",
+    "14:11",
+    "14:16",
+    "14:21",
+    "14:26",
+    "14:31",
+    "14:36",
+    "14:41",
+    "14:46",
+    "14:51",
+    "14:56",
+    "15:00"
+  ],
+  "fromSnapshot": true,
+  "demo": true,
+  "fallbackReason": "???????????????????????????",
+  "source": {
+    "id": "demo-snapshot",
+    "provider": "??????",
+    "note": "??????????????????????"
+  },
+  "boards": [
+    {
+      "code": "BK1057",
+      "name": "电子纸概念",
+      "latest": 1262.93,
+      "changePercent": 0.72,
+      "mainNet": 3345025792,
+      "mainNetRatio": 4.51,
+      "leaderName": "N惠科",
+      "leaderCode": "001399",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 279243776,
+          "smallNet": -350792288,
+          "mediumNet": 71548528,
+          "largeNet": 98609536,
+          "superLargeNet": 180634240
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": 434122936,
+          "smallNet": -845779309,
+          "mediumNet": 411656398,
+          "largeNet": 493345225,
+          "superLargeNet": -59222289
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": 715980016,
+          "smallNet": -1037867259,
+          "mediumNet": 321887274,
+          "largeNet": 585942989,
+          "superLargeNet": 130037027
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": 1164397503,
+          "smallNet": -1562262390,
+          "mediumNet": 397864920,
+          "largeNet": 742293955,
+          "superLargeNet": 422103548
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": 1163047998,
+          "smallNet": -1578411661,
+          "mediumNet": 415363695,
+          "largeNet": 847342661,
+          "superLargeNet": 315705337
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": 1556397250,
+          "smallNet": -2090065788,
+          "mediumNet": 533668576,
+          "largeNet": 924269556,
+          "superLargeNet": 632127694
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": 2072320050,
+          "smallNet": -3096325351,
+          "mediumNet": 1024005335,
+          "largeNet": 1358180866,
+          "superLargeNet": 714139184
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": 2436578469,
+          "smallNet": -3713871125,
+          "mediumNet": 1277292683,
+          "largeNet": 1656449056,
+          "superLargeNet": 780129413
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": 2951108577,
+          "smallNet": -4168993324,
+          "mediumNet": 1217884773,
+          "largeNet": 1826638082,
+          "superLargeNet": 1124470495
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": 3162220342,
+          "smallNet": -4422226943,
+          "mediumNet": 1260006615,
+          "largeNet": 1918877742,
+          "superLargeNet": 1243342600
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": 3566780398,
+          "smallNet": -4742795925,
+          "mediumNet": 1176015541,
+          "largeNet": 1924767157,
+          "superLargeNet": 1642013241
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": 3511371385,
+          "smallNet": -4809714553,
+          "mediumNet": 1298343182,
+          "largeNet": 1971219213,
+          "superLargeNet": 1540152172
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": 3498071653,
+          "smallNet": -4869437338,
+          "mediumNet": 1371365700,
+          "largeNet": 2001151881,
+          "superLargeNet": 1496919772
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": 3545457528,
+          "smallNet": -4957748210,
+          "mediumNet": 1412290695,
+          "largeNet": 2012168193,
+          "superLargeNet": 1533289335
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 3599402097,
+          "smallNet": -5062948016,
+          "mediumNet": 1463545934,
+          "largeNet": 2069806009,
+          "superLargeNet": 1529596088
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 3568284440,
+          "smallNet": -5109620811,
+          "mediumNet": 1541336385,
+          "largeNet": 2134955560,
+          "superLargeNet": 1433328880
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 3406147864,
+          "smallNet": -5081138724,
+          "mediumNet": 1674990874,
+          "largeNet": 2118651820,
+          "superLargeNet": 1287496044
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 3378376656,
+          "smallNet": -5107828423,
+          "mediumNet": 1729451783,
+          "largeNet": 2166960008,
+          "superLargeNet": 1211416648
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 3120468260,
+          "smallNet": -4991982017,
+          "mediumNet": 1871513771,
+          "largeNet": 2186204665,
+          "superLargeNet": 934263595
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 3050139320,
+          "smallNet": -4979189879,
+          "mediumNet": 1929050572,
+          "largeNet": 2198944210,
+          "superLargeNet": 851195110
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 3042032654,
+          "smallNet": -5007413606,
+          "mediumNet": 1965380965,
+          "largeNet": 2225765894,
+          "superLargeNet": 816266760
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 3085504664,
+          "smallNet": -5068430418,
+          "mediumNet": 1982925769,
+          "largeNet": 2231918651,
+          "superLargeNet": 853586013
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 3115912923,
+          "smallNet": -5142007887,
+          "mediumNet": 2026094979,
+          "largeNet": 2316072926,
+          "superLargeNet": 799839997
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 3129805337,
+          "smallNet": -5177602902,
+          "mediumNet": 2047797578,
+          "largeNet": 2368576545,
+          "superLargeNet": 761228792
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 3179146517,
+          "smallNet": -5243588535,
+          "mediumNet": 2064442028,
+          "largeNet": 2423901866,
+          "superLargeNet": 755244651
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 3219191793,
+          "smallNet": -5376093570,
+          "mediumNet": 2156901783,
+          "largeNet": 2514228529,
+          "superLargeNet": 704963264
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 3255956857,
+          "smallNet": -5450832570,
+          "mediumNet": 2194875717,
+          "largeNet": 2516076467,
+          "superLargeNet": 739880390
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 3248042915,
+          "smallNet": -5496412449,
+          "mediumNet": 2248369537,
+          "largeNet": 2536873644,
+          "superLargeNet": 711169271
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 3261106700,
+          "smallNet": -5539089169,
+          "mediumNet": 2277982473,
+          "largeNet": 2587354196,
+          "superLargeNet": 673752504
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 3265522658,
+          "smallNet": -5577130127,
+          "mediumNet": 2311607470,
+          "largeNet": 2638542316,
+          "superLargeNet": 626980342
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 2971229726,
+          "smallNet": -5426163621,
+          "mediumNet": 2454933897,
+          "largeNet": 2692494831,
+          "superLargeNet": 278734895
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 2900374561,
+          "smallNet": -5400009228,
+          "mediumNet": 2499634667,
+          "largeNet": 2668188632,
+          "superLargeNet": 232185929
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 2919260527,
+          "smallNet": -5422429703,
+          "mediumNet": 2503169175,
+          "largeNet": 2690098750,
+          "superLargeNet": 229161777
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 2945088801,
+          "smallNet": -5455086135,
+          "mediumNet": 2509997336,
+          "largeNet": 2690029020,
+          "superLargeNet": 255059781
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 2960544545,
+          "smallNet": -5499839308,
+          "mediumNet": 2539294763,
+          "largeNet": 2719987647,
+          "superLargeNet": 240556898
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 2958103424,
+          "smallNet": -5542746975,
+          "mediumNet": 2584643555,
+          "largeNet": 2769338925,
+          "superLargeNet": 188764499
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 2929397163,
+          "smallNet": -5561446916,
+          "mediumNet": 2632049753,
+          "largeNet": 2790772447,
+          "superLargeNet": 138624716
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 2967941338,
+          "smallNet": -5627900086,
+          "mediumNet": 2659958746,
+          "largeNet": 2814596913,
+          "superLargeNet": 153344425
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 3011318714,
+          "smallNet": -5795920121,
+          "mediumNet": 2784601401,
+          "largeNet": 2903753957,
+          "superLargeNet": 107564757
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 3056719037,
+          "smallNet": -5888462194,
+          "mediumNet": 2831743151,
+          "largeNet": 2935511407,
+          "superLargeNet": 121207630
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 3081831984,
+          "smallNet": -5958522176,
+          "mediumNet": 2876690185,
+          "largeNet": 2986137317,
+          "superLargeNet": 95694667
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 3112136543,
+          "smallNet": -6024340290,
+          "mediumNet": 2912203737,
+          "largeNet": 3022606813,
+          "superLargeNet": 89529730
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 3117087413,
+          "smallNet": -6075150760,
+          "mediumNet": 2958063336,
+          "largeNet": 3080589683,
+          "superLargeNet": 36497730
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 3178466125,
+          "smallNet": -6177358185,
+          "mediumNet": 2998892049,
+          "largeNet": 3092181537,
+          "superLargeNet": 86284588
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 3193952508,
+          "smallNet": -6242754776,
+          "mediumNet": 3048802261,
+          "largeNet": 3146683016,
+          "superLargeNet": 47269492
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 3255909587,
+          "smallNet": -6343403152,
+          "mediumNet": 3087493557,
+          "largeNet": 3177686096,
+          "superLargeNet": 78223491
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 3326509266,
+          "smallNet": -6473226298,
+          "mediumNet": 3146717023,
+          "largeNet": 3224823397,
+          "superLargeNet": 101685869
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 3292794202,
+          "smallNet": -6576801380,
+          "mediumNet": 3284007167,
+          "largeNet": 3309877510,
+          "superLargeNet": -17083308
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 3345025776,
+          "smallNet": -6658440482,
+          "mediumNet": 3313414695,
+          "largeNet": 3334474372,
+          "superLargeNet": 10551404
+        }
+      ]
+    },
+    {
+      "code": "BK0994",
+      "name": "空间站概念",
+      "latest": 2298.76,
+      "changePercent": -0.32,
+      "mainNet": 1918257920,
+      "mainNetRatio": 10.66,
+      "leaderName": "中国卫星",
+      "leaderCode": "600118",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 7036494,
+          "smallNet": 6650291,
+          "mediumNet": -13684978,
+          "largeNet": -15661561,
+          "superLargeNet": 22698055
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -57644123,
+          "smallNet": 80766800,
+          "mediumNet": -23194767,
+          "largeNet": -61097113,
+          "superLargeNet": 3452990
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -141573660,
+          "smallNet": 167245895,
+          "mediumNet": -25611110,
+          "largeNet": -96105390,
+          "superLargeNet": -45468270
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -174871455,
+          "smallNet": 208413974,
+          "mediumNet": -33558304,
+          "largeNet": -113869530,
+          "superLargeNet": -61001925
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -177711066,
+          "smallNet": 224825347,
+          "mediumNet": -46120576,
+          "largeNet": -117411808,
+          "superLargeNet": -60299258
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -266793257,
+          "smallNet": 309225118,
+          "mediumNet": -42388403,
+          "largeNet": -165929596,
+          "superLargeNet": -100863661
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -273252986,
+          "smallNet": 324466591,
+          "mediumNet": -51221862,
+          "largeNet": -175202094,
+          "superLargeNet": -98050892
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -265030526,
+          "smallNet": 321936611,
+          "mediumNet": -57059009,
+          "largeNet": -179720306,
+          "superLargeNet": -85310220
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -182274603,
+          "smallNet": 268457019,
+          "mediumNet": -86205749,
+          "largeNet": -154611009,
+          "superLargeNet": -27663594
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -145648091,
+          "smallNet": 247059437,
+          "mediumNet": -101367561,
+          "largeNet": -137631824,
+          "superLargeNet": -8016267
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -132923130,
+          "smallNet": 231640377,
+          "mediumNet": -98687117,
+          "largeNet": -122017463,
+          "superLargeNet": -10905667
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -64724123,
+          "smallNet": 184792246,
+          "mediumNet": -120071111,
+          "largeNet": -97536331,
+          "superLargeNet": 32812208
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": 29188028,
+          "smallNet": 119960558,
+          "mediumNet": -149146600,
+          "largeNet": -75049330,
+          "superLargeNet": 104237358
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": 145607102,
+          "smallNet": 30287406,
+          "mediumNet": -175894908,
+          "largeNet": -72310328,
+          "superLargeNet": 217917430
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 269635807,
+          "smallNet": -63133251,
+          "mediumNet": -206405346,
+          "largeNet": -43438181,
+          "superLargeNet": 313073988
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 381360889,
+          "smallNet": -138379075,
+          "mediumNet": -242701308,
+          "largeNet": -28299060,
+          "superLargeNet": 409659949
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 506857128,
+          "smallNet": -235710641,
+          "mediumNet": -270581715,
+          "largeNet": -19751962,
+          "superLargeNet": 526609090
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 583026765,
+          "smallNet": -284793717,
+          "mediumNet": -298211230,
+          "largeNet": -46456318,
+          "superLargeNet": 629483083
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 654403597,
+          "smallNet": -331040507,
+          "mediumNet": -323272149,
+          "largeNet": -30485899,
+          "superLargeNet": 684889496
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 777974042,
+          "smallNet": -427992662,
+          "mediumNet": -349957992,
+          "largeNet": 19132574,
+          "superLargeNet": 758841468
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 783649730,
+          "smallNet": -437382619,
+          "mediumNet": -346255735,
+          "largeNet": 17084415,
+          "superLargeNet": 766565315
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 803452606,
+          "smallNet": -458076292,
+          "mediumNet": -345330449,
+          "largeNet": 10114575,
+          "superLargeNet": 793338031
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 817733467,
+          "smallNet": -480188363,
+          "mediumNet": -337477426,
+          "largeNet": 11773703,
+          "superLargeNet": 805959764
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 842587587,
+          "smallNet": -503488727,
+          "mediumNet": -339087926,
+          "largeNet": 19435337,
+          "superLargeNet": 823152250
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 855514385,
+          "smallNet": -524654869,
+          "mediumNet": -330878798,
+          "largeNet": 28470035,
+          "superLargeNet": 827044350
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 912667501,
+          "smallNet": -572483216,
+          "mediumNet": -340193829,
+          "largeNet": 48254200,
+          "superLargeNet": 864413301
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 1103474855,
+          "smallNet": -706322821,
+          "mediumNet": -397134222,
+          "largeNet": 76749119,
+          "superLargeNet": 1026725736
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 1094575517,
+          "smallNet": -696710687,
+          "mediumNet": -397864343,
+          "largeNet": 68394771,
+          "superLargeNet": 1026180746
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 1120559359,
+          "smallNet": -719228523,
+          "mediumNet": -401336356,
+          "largeNet": 86577625,
+          "superLargeNet": 1033981734
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 1163516276,
+          "smallNet": -757519672,
+          "mediumNet": -406006203,
+          "largeNet": 93011479,
+          "superLargeNet": 1070504797
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 1228199098,
+          "smallNet": -813678885,
+          "mediumNet": -414561344,
+          "largeNet": 109915867,
+          "superLargeNet": 1118283231
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 1596246659,
+          "smallNet": -1004177879,
+          "mediumNet": -592068430,
+          "largeNet": 52923283,
+          "superLargeNet": 1543323376
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 1685235107,
+          "smallNet": -1070451096,
+          "mediumNet": -614746521,
+          "largeNet": 65673615,
+          "superLargeNet": 1619561492
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 1699628870,
+          "smallNet": -1091058197,
+          "mediumNet": -608603808,
+          "largeNet": 71269013,
+          "superLargeNet": 1628359857
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 1741033217,
+          "smallNet": -1111291286,
+          "mediumNet": -629738238,
+          "largeNet": 69958034,
+          "superLargeNet": 1671075183
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 1766252829,
+          "smallNet": -1124815072,
+          "mediumNet": -641405824,
+          "largeNet": 63252101,
+          "superLargeNet": 1703000728
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 1795556256,
+          "smallNet": -1146452191,
+          "mediumNet": -649108933,
+          "largeNet": 73616850,
+          "superLargeNet": 1721939406
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 1800603077,
+          "smallNet": -1144379889,
+          "mediumNet": -656249636,
+          "largeNet": 76340461,
+          "superLargeNet": 1724262616
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 1814709922,
+          "smallNet": -1146266971,
+          "mediumNet": -668399365,
+          "largeNet": 73601215,
+          "superLargeNet": 1741108707
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 1816758462,
+          "smallNet": -1147675839,
+          "mediumNet": -668985142,
+          "largeNet": 78051135,
+          "superLargeNet": 1738707327
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 1839353487,
+          "smallNet": -1147810229,
+          "mediumNet": -691506410,
+          "largeNet": 77410315,
+          "superLargeNet": 1761943172
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 1862296053,
+          "smallNet": -1161614985,
+          "mediumNet": -700675008,
+          "largeNet": 72194511,
+          "superLargeNet": 1790101542
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 1871272033,
+          "smallNet": -1167681810,
+          "mediumNet": -703690972,
+          "largeNet": 66851394,
+          "superLargeNet": 1804420639
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 1885983872,
+          "smallNet": -1176196750,
+          "mediumNet": -709675088,
+          "largeNet": 67940131,
+          "superLargeNet": 1818043741
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 1896171918,
+          "smallNet": -1176733987,
+          "mediumNet": -719435916,
+          "largeNet": 70008389,
+          "superLargeNet": 1826163529
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 1889108962,
+          "smallNet": -1174689745,
+          "mediumNet": -714452894,
+          "largeNet": 68740531,
+          "superLargeNet": 1820368431
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 1901226152,
+          "smallNet": -1178383904,
+          "mediumNet": -722894432,
+          "largeNet": 73275400,
+          "superLargeNet": 1827950752
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 1909392469,
+          "smallNet": -1190345710,
+          "mediumNet": -718994323,
+          "largeNet": 72182543,
+          "superLargeNet": 1837209926
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 1918257895,
+          "smallNet": -1195539138,
+          "mediumNet": -722718760,
+          "largeNet": 65162673,
+          "superLargeNet": 1853095222
+        }
+      ]
+    },
+    {
+      "code": "BK1130",
+      "name": "时空大数据",
+      "latest": 1386.48,
+      "changePercent": -2.01,
+      "mainNet": 1086001456,
+      "mainNetRatio": 8.28,
+      "leaderName": "中国卫星",
+      "leaderCode": "600118",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 5359278,
+          "smallNet": -483588,
+          "mediumNet": -4873713,
+          "largeNet": -6318953,
+          "superLargeNet": 11678231
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -16877258,
+          "smallNet": 38245175,
+          "mediumNet": -21555172,
+          "largeNet": -13317816,
+          "superLargeNet": -3559442
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -72679907,
+          "smallNet": 86796990,
+          "mediumNet": -14428619,
+          "largeNet": -27355627,
+          "superLargeNet": -45324280
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -97987386,
+          "smallNet": 113626722,
+          "mediumNet": -16590946,
+          "largeNet": -43378773,
+          "superLargeNet": -54608613
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -129961755,
+          "smallNet": 151133581,
+          "mediumNet": -21754877,
+          "largeNet": -58352443,
+          "superLargeNet": -71609312
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -189307484,
+          "smallNet": 217673137,
+          "mediumNet": -29156086,
+          "largeNet": -90209244,
+          "superLargeNet": -99098240
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -200834471,
+          "smallNet": 241049311,
+          "mediumNet": -41179974,
+          "largeNet": -101237013,
+          "superLargeNet": -99597458
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -213394218,
+          "smallNet": 263774526,
+          "mediumNet": -51674557,
+          "largeNet": -118655942,
+          "superLargeNet": -94738276
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -195773213,
+          "smallNet": 262739967,
+          "mediumNet": -68237336,
+          "largeNet": -123577285,
+          "superLargeNet": -72195928
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -172623466,
+          "smallNet": 260474968,
+          "mediumNet": -89082924,
+          "largeNet": -121638623,
+          "superLargeNet": -50984843
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -175907743,
+          "smallNet": 262422350,
+          "mediumNet": -87550130,
+          "largeNet": -119954661,
+          "superLargeNet": -55953082
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -143997133,
+          "smallNet": 254579816,
+          "mediumNet": -111026289,
+          "largeNet": -117937448,
+          "superLargeNet": -26059685
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -99304654,
+          "smallNet": 228027180,
+          "mediumNet": -129402811,
+          "largeNet": -124167693,
+          "superLargeNet": 24863039
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -38945322,
+          "smallNet": 193712684,
+          "mediumNet": -155522011,
+          "largeNet": -129652136,
+          "superLargeNet": 90706814
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 43721533,
+          "smallNet": 140998056,
+          "mediumNet": -185542706,
+          "largeNet": -115609669,
+          "superLargeNet": 159331202
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 116920540,
+          "smallNet": 98828690,
+          "mediumNet": -216241231,
+          "largeNet": -113431259,
+          "superLargeNet": 230351799
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 198789277,
+          "smallNet": 48937380,
+          "mediumNet": -247751794,
+          "largeNet": -124687382,
+          "superLargeNet": 323476659
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 259937200,
+          "smallNet": 21697052,
+          "mediumNet": -282291483,
+          "largeNet": -154755730,
+          "superLargeNet": 414692930
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 277791342,
+          "smallNet": 20800585,
+          "mediumNet": -299271672,
+          "largeNet": -175114538,
+          "superLargeNet": 452905880
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 298100037,
+          "smallNet": 10331152,
+          "mediumNet": -309145508,
+          "largeNet": -164077949,
+          "superLargeNet": 462177986
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 298888392,
+          "smallNet": 12669403,
+          "mediumNet": -312411726,
+          "largeNet": -167131077,
+          "superLargeNet": 466019469
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 301643657,
+          "smallNet": 9297186,
+          "mediumNet": -311705394,
+          "largeNet": -169101018,
+          "superLargeNet": 470744675
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 307069862,
+          "smallNet": 3738617,
+          "mediumNet": -311564230,
+          "largeNet": -170929109,
+          "superLargeNet": 477998971
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 318009189,
+          "smallNet": -2805372,
+          "mediumNet": -315953552,
+          "largeNet": -175592915,
+          "superLargeNet": 493602104
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 326564968,
+          "smallNet": -11324322,
+          "mediumNet": -315888413,
+          "largeNet": -173085503,
+          "superLargeNet": 499650471
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 353531044,
+          "smallNet": -36670145,
+          "mediumNet": -317362223,
+          "largeNet": -163945560,
+          "superLargeNet": 517476604
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 417845187,
+          "smallNet": -83889315,
+          "mediumNet": -333961102,
+          "largeNet": -165727404,
+          "superLargeNet": 583572591
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 408026938,
+          "smallNet": -77962836,
+          "mediumNet": -329846679,
+          "largeNet": -174641971,
+          "superLargeNet": 582668909
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 422395452,
+          "smallNet": -91089806,
+          "mediumNet": -331151096,
+          "largeNet": -166746505,
+          "superLargeNet": 589141957
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 463022762,
+          "smallNet": -123019771,
+          "mediumNet": -339894714,
+          "largeNet": -164080189,
+          "superLargeNet": 627102951
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 521172233,
+          "smallNet": -160073171,
+          "mediumNet": -361081327,
+          "largeNet": -148195406,
+          "superLargeNet": 669367639
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 841258995,
+          "smallNet": -313548761,
+          "mediumNet": -527910604,
+          "largeNet": -234511743,
+          "superLargeNet": 1075770738
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 936310971,
+          "smallNet": -369229459,
+          "mediumNet": -567127319,
+          "largeNet": -217389173,
+          "superLargeNet": 1153700144
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 949259353,
+          "smallNet": -372001493,
+          "mediumNet": -577252358,
+          "largeNet": -207534902,
+          "superLargeNet": 1156794255
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 993432408,
+          "smallNet": -391225691,
+          "mediumNet": -602364051,
+          "largeNet": -211173353,
+          "superLargeNet": 1204605761
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 1011435489,
+          "smallNet": -399648217,
+          "mediumNet": -611733075,
+          "largeNet": -210519817,
+          "superLargeNet": 1221955306
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 1016947357,
+          "smallNet": -400818667,
+          "mediumNet": -616031491,
+          "largeNet": -207767437,
+          "superLargeNet": 1224714794
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 1023684278,
+          "smallNet": -399563887,
+          "mediumNet": -624271377,
+          "largeNet": -211096341,
+          "superLargeNet": 1234780619
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 1016860392,
+          "smallNet": -390388944,
+          "mediumNet": -626698618,
+          "largeNet": -222013705,
+          "superLargeNet": 1238874097
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 1005088649,
+          "smallNet": -381972483,
+          "mediumNet": -623536445,
+          "largeNet": -228476081,
+          "superLargeNet": 1233564730
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 1025984355,
+          "smallNet": -382805326,
+          "mediumNet": -643641079,
+          "largeNet": -229894261,
+          "superLargeNet": 1255878616
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 1043758833,
+          "smallNet": -391146298,
+          "mediumNet": -653101389,
+          "largeNet": -236049904,
+          "superLargeNet": 1279808737
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 1052182865,
+          "smallNet": -394208914,
+          "mediumNet": -658405920,
+          "largeNet": -239518406,
+          "superLargeNet": 1291701271
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 1052166960,
+          "smallNet": -396771749,
+          "mediumNet": -655801654,
+          "largeNet": -236925188,
+          "superLargeNet": 1289092148
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 1062738438,
+          "smallNet": -397524405,
+          "mediumNet": -665659272,
+          "largeNet": -237286044,
+          "superLargeNet": 1300024482
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 1067253863,
+          "smallNet": -396888455,
+          "mediumNet": -670789865,
+          "largeNet": -244529150,
+          "superLargeNet": 1311783013
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 1077158308,
+          "smallNet": -396348555,
+          "mediumNet": -681280946,
+          "largeNet": -254887896,
+          "superLargeNet": 1332046204
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 1080270158,
+          "smallNet": -387663904,
+          "mediumNet": -693053266,
+          "largeNet": -259882270,
+          "superLargeNet": 1340152428
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 1086001421,
+          "smallNet": -388730926,
+          "mediumNet": -697784910,
+          "largeNet": -261786633,
+          "superLargeNet": 1347788054
+        }
+      ]
+    },
+    {
+      "code": "BK0566",
+      "name": "滨海新区",
+      "latest": 9845.78,
+      "changePercent": -2.41,
+      "mainNet": 1002056976,
+      "mainNetRatio": 10.74,
+      "leaderName": "TCL中环",
+      "leaderCode": "002129",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -1716159,
+          "smallNet": -851111,
+          "mediumNet": 2469980,
+          "largeNet": 2203163,
+          "superLargeNet": -3919322
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": 134195906,
+          "smallNet": -73540814,
+          "mediumNet": -60551330,
+          "largeNet": 82487400,
+          "superLargeNet": 51708506
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": 190891105,
+          "smallNet": -84693736,
+          "mediumNet": -106259861,
+          "largeNet": 83606153,
+          "superLargeNet": 107284952
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": 327191799,
+          "smallNet": -151050881,
+          "mediumNet": -176141107,
+          "largeNet": 42716089,
+          "superLargeNet": 284475710
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": 585581375,
+          "smallNet": -256441600,
+          "mediumNet": -329136090,
+          "largeNet": -20617780,
+          "superLargeNet": 606199155
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": 583283069,
+          "smallNet": -243749844,
+          "mediumNet": -339480759,
+          "largeNet": -34761611,
+          "superLargeNet": 618044680
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": 512640214,
+          "smallNet": -196881210,
+          "mediumNet": -315765460,
+          "largeNet": -91557954,
+          "superLargeNet": 604198168
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": 464167078,
+          "smallNet": -154763301,
+          "mediumNet": -309416376,
+          "largeNet": -107829610,
+          "superLargeNet": 571996688
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": 445811074,
+          "smallNet": -130946800,
+          "mediumNet": -315530893,
+          "largeNet": -132424315,
+          "superLargeNet": 578235389
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": 599721546,
+          "smallNet": -196416978,
+          "mediumNet": -403245332,
+          "largeNet": -184762538,
+          "superLargeNet": 784484084
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": 633530374,
+          "smallNet": -208966278,
+          "mediumNet": -424571942,
+          "largeNet": -202783371,
+          "superLargeNet": 836313745
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": 658095065,
+          "smallNet": -221577248,
+          "mediumNet": -436480510,
+          "largeNet": -209234100,
+          "superLargeNet": 867329165
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": 674471732,
+          "smallNet": -224263198,
+          "mediumNet": -450217348,
+          "largeNet": -222473155,
+          "superLargeNet": 896944887
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": 707394730,
+          "smallNet": -236853888,
+          "mediumNet": -470458914,
+          "largeNet": -240145995,
+          "superLargeNet": 947540725
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 723941547,
+          "smallNet": -244625479,
+          "mediumNet": -479315574,
+          "largeNet": -247113123,
+          "superLargeNet": 971054670
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 735114564,
+          "smallNet": -247890761,
+          "mediumNet": -487139759,
+          "largeNet": -257402465,
+          "superLargeNet": 992517029
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 748637045,
+          "smallNet": -252571267,
+          "mediumNet": -495995819,
+          "largeNet": -267165772,
+          "superLargeNet": 1015802817
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 763672436,
+          "smallNet": -236843440,
+          "mediumNet": -526828984,
+          "largeNet": -298012480,
+          "superLargeNet": 1061684916
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 782572042,
+          "smallNet": -243190227,
+          "mediumNet": -539381802,
+          "largeNet": -300232374,
+          "superLargeNet": 1082804416
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 863574014,
+          "smallNet": -280190755,
+          "mediumNet": -583383248,
+          "largeNet": -333539384,
+          "superLargeNet": 1197113398
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 878749029,
+          "smallNet": -286214221,
+          "mediumNet": -592544233,
+          "largeNet": -340997510,
+          "superLargeNet": 1219746539
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 887282090,
+          "smallNet": -287673227,
+          "mediumNet": -599588397,
+          "largeNet": -347623181,
+          "superLargeNet": 1234905271
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 902171821,
+          "smallNet": -295757584,
+          "mediumNet": -606418099,
+          "largeNet": -343557833,
+          "superLargeNet": 1245729654
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 908071796,
+          "smallNet": -298200476,
+          "mediumNet": -609875902,
+          "largeNet": -351520371,
+          "superLargeNet": 1259592167
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 947065924,
+          "smallNet": -314967298,
+          "mediumNet": -632096278,
+          "largeNet": -349221991,
+          "superLargeNet": 1296287915
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 954813364,
+          "smallNet": -320183091,
+          "mediumNet": -634630262,
+          "largeNet": -355091908,
+          "superLargeNet": 1309905272
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 957299025,
+          "smallNet": -319627358,
+          "mediumNet": -637668977,
+          "largeNet": -356877003,
+          "superLargeNet": 1314176028
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 958889299,
+          "smallNet": -320772787,
+          "mediumNet": -638116505,
+          "largeNet": -358687612,
+          "superLargeNet": 1317576911
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 963147281,
+          "smallNet": -325255777,
+          "mediumNet": -637883651,
+          "largeNet": -358783272,
+          "superLargeNet": 1321930553
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 971941730,
+          "smallNet": -330631866,
+          "mediumNet": -641309857,
+          "largeNet": -357091570,
+          "superLargeNet": 1329033300
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 971951735,
+          "smallNet": -332884571,
+          "mediumNet": -639067159,
+          "largeNet": -355277411,
+          "superLargeNet": 1327229146
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 970990855,
+          "smallNet": -331581246,
+          "mediumNet": -639396377,
+          "largeNet": -359676205,
+          "superLargeNet": 1330667060
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 968362473,
+          "smallNet": -328838931,
+          "mediumNet": -639523538,
+          "largeNet": -357982055,
+          "superLargeNet": 1326344528
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 971510310,
+          "smallNet": -326936264,
+          "mediumNet": -644428890,
+          "largeNet": -356800972,
+          "superLargeNet": 1328311282
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 974196926,
+          "smallNet": -328270801,
+          "mediumNet": -645801373,
+          "largeNet": -361615022,
+          "superLargeNet": 1335811948
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 975976115,
+          "smallNet": -331063873,
+          "mediumNet": -644927407,
+          "largeNet": -362476124,
+          "superLargeNet": 1338452239
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 979081761,
+          "smallNet": -332690481,
+          "mediumNet": -646391282,
+          "largeNet": -364192915,
+          "superLargeNet": 1343274676
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 979953945,
+          "smallNet": -332853275,
+          "mediumNet": -647100672,
+          "largeNet": -364569262,
+          "superLargeNet": 1344523207
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 977930247,
+          "smallNet": -328105910,
+          "mediumNet": -649824820,
+          "largeNet": -375646242,
+          "superLargeNet": 1353576489
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 983646694,
+          "smallNet": -329924531,
+          "mediumNet": -653720018,
+          "largeNet": -376962765,
+          "superLargeNet": 1360609459
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 983730535,
+          "smallNet": -329169871,
+          "mediumNet": -654605895,
+          "largeNet": -381700288,
+          "superLargeNet": 1365430823
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 988107467,
+          "smallNet": -331342378,
+          "mediumNet": -656765088,
+          "largeNet": -381096927,
+          "superLargeNet": 1369204394
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 988663335,
+          "smallNet": -329922863,
+          "mediumNet": -658790245,
+          "largeNet": -384254697,
+          "superLargeNet": 1372918032
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 980341439,
+          "smallNet": -325241026,
+          "mediumNet": -655095546,
+          "largeNet": -383287927,
+          "superLargeNet": 1363629366
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 982256414,
+          "smallNet": -327987957,
+          "mediumNet": -654626406,
+          "largeNet": -377851194,
+          "superLargeNet": 1360107608
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 993303385,
+          "smallNet": -333831949,
+          "mediumNet": -659468075,
+          "largeNet": -375389296,
+          "superLargeNet": 1368692681
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 996549392,
+          "smallNet": -336116462,
+          "mediumNet": -660353196,
+          "largeNet": -380076443,
+          "superLargeNet": 1376625835
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 998446816,
+          "smallNet": -331030624,
+          "mediumNet": -667410590,
+          "largeNet": -385444130,
+          "superLargeNet": 1383890946
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 1002056914,
+          "smallNet": -331665559,
+          "mediumNet": -670391370,
+          "largeNet": -386656897,
+          "superLargeNet": 1388713811
+        }
+      ]
+    },
+    {
+      "code": "BK0908",
+      "name": "HJT电池",
+      "latest": 3063.31,
+      "changePercent": -0.15,
+      "mainNet": 991751168,
+      "mainNetRatio": 2.58,
+      "leaderName": "TCL中环",
+      "leaderCode": "002129",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 10783622,
+          "smallNet": -2558552,
+          "mediumNet": -7869313,
+          "largeNet": 4620608,
+          "superLargeNet": 6163014
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": 239904817,
+          "smallNet": -181670521,
+          "mediumNet": -57359850,
+          "largeNet": 177271586,
+          "superLargeNet": 62633231
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": 409288618,
+          "smallNet": -277792750,
+          "mediumNet": -130898147,
+          "largeNet": 156707894,
+          "superLargeNet": 252580724
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": 690649696,
+          "smallNet": -431651095,
+          "mediumNet": -259124104,
+          "largeNet": 194852638,
+          "superLargeNet": 495797058
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": 1036249480,
+          "smallNet": -618580596,
+          "mediumNet": -417322039,
+          "largeNet": 132940575,
+          "superLargeNet": 903308905
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": 905937881,
+          "smallNet": -556033090,
+          "mediumNet": -349823695,
+          "largeNet": 87673155,
+          "superLargeNet": 818264726
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": 745337809,
+          "smallNet": -449639635,
+          "mediumNet": -296509143,
+          "largeNet": -1863784,
+          "superLargeNet": 747201593
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": 663440872,
+          "smallNet": -382860329,
+          "mediumNet": -281639511,
+          "largeNet": -11746131,
+          "superLargeNet": 675187003
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": 671679628,
+          "smallNet": -393486846,
+          "mediumNet": -279540265,
+          "largeNet": -52695171,
+          "superLargeNet": 724374799
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": 853974465,
+          "smallNet": -472920567,
+          "mediumNet": -382341613,
+          "largeNet": -109607939,
+          "superLargeNet": 963582404
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": 997871618,
+          "smallNet": -555962135,
+          "mediumNet": -442537958,
+          "largeNet": -111714642,
+          "superLargeNet": 1109586260
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": 1010578279,
+          "smallNet": -607637844,
+          "mediumNet": -402888263,
+          "largeNet": -96274997,
+          "superLargeNet": 1106853276
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": 960717448,
+          "smallNet": -615583098,
+          "mediumNet": -345197258,
+          "largeNet": -91532593,
+          "superLargeNet": 1052250041
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": 964233345,
+          "smallNet": -656276255,
+          "mediumNet": -307624785,
+          "largeNet": -103949679,
+          "superLargeNet": 1068183024
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 900006304,
+          "smallNet": -668056844,
+          "mediumNet": -231487054,
+          "largeNet": -112925556,
+          "superLargeNet": 1012931860
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 875389369,
+          "smallNet": -665252588,
+          "mediumNet": -209998601,
+          "largeNet": -143555603,
+          "superLargeNet": 1018944972
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 880973220,
+          "smallNet": -675509334,
+          "mediumNet": -205203161,
+          "largeNet": -158000882,
+          "superLargeNet": 1038974102
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 844109825,
+          "smallNet": -637061666,
+          "mediumNet": -207597462,
+          "largeNet": -219878692,
+          "superLargeNet": 1063988517
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 825264715,
+          "smallNet": -626700446,
+          "mediumNet": -198633625,
+          "largeNet": -252530370,
+          "superLargeNet": 1077795085
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 942374904,
+          "smallNet": -685146816,
+          "mediumNet": -257300155,
+          "largeNet": -264165321,
+          "superLargeNet": 1206540225
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 946750729,
+          "smallNet": -688770058,
+          "mediumNet": -258144333,
+          "largeNet": -275483189,
+          "superLargeNet": 1222233918
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 964285408,
+          "smallNet": -695748025,
+          "mediumNet": -269049419,
+          "largeNet": -284902327,
+          "superLargeNet": 1249187735
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 962336338,
+          "smallNet": -700042799,
+          "mediumNet": -262908072,
+          "largeNet": -299673549,
+          "superLargeNet": 1262009887
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 962875890,
+          "smallNet": -696835096,
+          "mediumNet": -266358606,
+          "largeNet": -311367768,
+          "superLargeNet": 1274243658
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 995608008,
+          "smallNet": -713313252,
+          "mediumNet": -280443438,
+          "largeNet": -313235926,
+          "superLargeNet": 1308843934
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 986082471,
+          "smallNet": -708495844,
+          "mediumNet": -278014853,
+          "largeNet": -337828137,
+          "superLargeNet": 1323910608
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 996129860,
+          "smallNet": -710665379,
+          "mediumNet": -285620292,
+          "largeNet": -329419263,
+          "superLargeNet": 1325549123
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 995757283,
+          "smallNet": -714732407,
+          "mediumNet": -281506503,
+          "largeNet": -334372754,
+          "superLargeNet": 1330130037
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 1012196605,
+          "smallNet": -720927347,
+          "mediumNet": -291471298,
+          "largeNet": -333829567,
+          "superLargeNet": 1346026172
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 1077971704,
+          "smallNet": -754840618,
+          "mediumNet": -323510813,
+          "largeNet": -309624045,
+          "superLargeNet": 1387595749
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 1084089518,
+          "smallNet": -761978241,
+          "mediumNet": -322450398,
+          "largeNet": -315013342,
+          "superLargeNet": 1399102860
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 1095610232,
+          "smallNet": -758925849,
+          "mediumNet": -337163193,
+          "largeNet": -307267443,
+          "superLargeNet": 1402877675
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 1111284264,
+          "smallNet": -758693817,
+          "mediumNet": -353120959,
+          "largeNet": -278429369,
+          "superLargeNet": 1389713633
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 1127507807,
+          "smallNet": -761502410,
+          "mediumNet": -366567631,
+          "largeNet": -253065299,
+          "superLargeNet": 1380573106
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 1144935267,
+          "smallNet": -757675079,
+          "mediumNet": -387963965,
+          "largeNet": -255120722,
+          "superLargeNet": 1400055989
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 1129018667,
+          "smallNet": -757719866,
+          "mediumNet": -371752739,
+          "largeNet": -268456245,
+          "superLargeNet": 1397474912
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 1122878832,
+          "smallNet": -767692885,
+          "mediumNet": -355611216,
+          "largeNet": -285979146,
+          "superLargeNet": 1408857978
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 1113005476,
+          "smallNet": -763863108,
+          "mediumNet": -349648095,
+          "largeNet": -313337508,
+          "superLargeNet": 1426342984
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 1063551055,
+          "smallNet": -734550193,
+          "mediumNet": -329903494,
+          "largeNet": -326842462,
+          "superLargeNet": 1390393517
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 1051996087,
+          "smallNet": -725274926,
+          "mediumNet": -327537447,
+          "largeNet": -338910640,
+          "superLargeNet": 1390906727
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 1048634653,
+          "smallNet": -723365864,
+          "mediumNet": -326083310,
+          "largeNet": -344469236,
+          "superLargeNet": 1393103889
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 1057969119,
+          "smallNet": -735355022,
+          "mediumNet": -322874044,
+          "largeNet": -363608465,
+          "superLargeNet": 1421577584
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 1057100683,
+          "smallNet": -736095348,
+          "mediumNet": -321859016,
+          "largeNet": -381393278,
+          "superLargeNet": 1438493961
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 1031916694,
+          "smallNet": -729453566,
+          "mediumNet": -303441011,
+          "largeNet": -399339340,
+          "superLargeNet": 1431256034
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 1022900277,
+          "smallNet": -719662224,
+          "mediumNet": -304349233,
+          "largeNet": -428453732,
+          "superLargeNet": 1451354009
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 1035563865,
+          "smallNet": -710671577,
+          "mediumNet": -326100441,
+          "largeNet": -429447425,
+          "superLargeNet": 1465011290
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 1016914180,
+          "smallNet": -708471744,
+          "mediumNet": -309660686,
+          "largeNet": -442612240,
+          "superLargeNet": 1459526420
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 996157179,
+          "smallNet": -674848157,
+          "mediumNet": -322311308,
+          "largeNet": -478525937,
+          "superLargeNet": 1474683116
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 991751276,
+          "smallNet": -669768325,
+          "mediumNet": -323079137,
+          "largeNet": -483806935,
+          "superLargeNet": 1475558211
+        }
+      ]
+    },
+    {
+      "code": "BK1097",
+      "name": "TOPCon电池",
+      "latest": 962.85,
+      "changePercent": -0.83,
+      "mainNet": 854588160,
+      "mainNetRatio": 1.56,
+      "leaderName": "TCL中环",
+      "leaderCode": "002129",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 246720352,
+          "smallNet": -66698933,
+          "mediumNet": -179818896,
+          "largeNet": -150962320,
+          "superLargeNet": 397682672
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": 300338625,
+          "smallNet": -53713904,
+          "mediumNet": -246688125,
+          "largeNet": 69891233,
+          "superLargeNet": 230447392
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": 165503850,
+          "smallNet": 42489629,
+          "mediumNet": -207987500,
+          "largeNet": 16316277,
+          "superLargeNet": 149187573
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": 375790039,
+          "smallNet": -47869628,
+          "mediumNet": -327954669,
+          "largeNet": 36431773,
+          "superLargeNet": 339358266
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": 570898811,
+          "smallNet": -132241636,
+          "mediumNet": -438436125,
+          "largeNet": -68024158,
+          "superLargeNet": 638922969
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": 441545815,
+          "smallNet": -48479271,
+          "mediumNet": -393370391,
+          "largeNet": -111420444,
+          "superLargeNet": 552966259
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": 277070269,
+          "smallNet": 49621642,
+          "mediumNet": -326738294,
+          "largeNet": -212126665,
+          "superLargeNet": 489196934
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": 327879787,
+          "smallNet": 5369237,
+          "mediumNet": -333390198,
+          "largeNet": -178081505,
+          "superLargeNet": 505961292
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": 450070648,
+          "smallNet": -65110486,
+          "mediumNet": -385526108,
+          "largeNet": -143736653,
+          "superLargeNet": 593807301
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": 670437056,
+          "smallNet": -174035710,
+          "mediumNet": -496336741,
+          "largeNet": -176238069,
+          "superLargeNet": 846675125
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": 801273476,
+          "smallNet": -253167725,
+          "mediumNet": -548749935,
+          "largeNet": -144781362,
+          "superLargeNet": 946054838
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": 977874634,
+          "smallNet": -366087611,
+          "mediumNet": -611612655,
+          "largeNet": -126642671,
+          "superLargeNet": 1104517305
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": 1036506478,
+          "smallNet": -394501877,
+          "mediumNet": -642133595,
+          "largeNet": -109976521,
+          "superLargeNet": 1146482999
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": 1071521351,
+          "smallNet": -416700380,
+          "mediumNet": -654756452,
+          "largeNet": -91010136,
+          "superLargeNet": 1162531487
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": 1059135623,
+          "smallNet": -414279441,
+          "mediumNet": -644667872,
+          "largeNet": -71245098,
+          "superLargeNet": 1130380721
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": 1040576288,
+          "smallNet": -397327579,
+          "mediumNet": -643253945,
+          "largeNet": -90243768,
+          "superLargeNet": 1130820056
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": 1021283069,
+          "smallNet": -390101865,
+          "mediumNet": -631134825,
+          "largeNet": -104631176,
+          "superLargeNet": 1125914245
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": 919278195,
+          "smallNet": -305552659,
+          "mediumNet": -613726589,
+          "largeNet": -179466704,
+          "superLargeNet": 1098744899
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": 788235032,
+          "smallNet": -202289337,
+          "mediumNet": -586065935,
+          "largeNet": -288041811,
+          "superLargeNet": 1076276843
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": 822777531,
+          "smallNet": -224489130,
+          "mediumNet": -598288864,
+          "largeNet": -286105201,
+          "superLargeNet": 1108882732
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": 824505725,
+          "smallNet": -221132475,
+          "mediumNet": -603517514,
+          "largeNet": -284479080,
+          "superLargeNet": 1108984805
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": 811326296,
+          "smallNet": -216549620,
+          "mediumNet": -594891881,
+          "largeNet": -270887934,
+          "superLargeNet": 1082214230
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": 800182939,
+          "smallNet": -212262081,
+          "mediumNet": -588176915,
+          "largeNet": -283233343,
+          "superLargeNet": 1083416282
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": 798266745,
+          "smallNet": -210222913,
+          "mediumNet": -587985474,
+          "largeNet": -292005443,
+          "superLargeNet": 1090272188
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": 824572335,
+          "smallNet": -236271018,
+          "mediumNet": -587895157,
+          "largeNet": -282757325,
+          "superLargeNet": 1107329660
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": 836135600,
+          "smallNet": -240635767,
+          "mediumNet": -595531326,
+          "largeNet": -294014982,
+          "superLargeNet": 1130150582
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": 840852566,
+          "smallNet": -251064121,
+          "mediumNet": -589948921,
+          "largeNet": -311319659,
+          "superLargeNet": 1152172225
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": 891440745,
+          "smallNet": -276799007,
+          "mediumNet": -614885547,
+          "largeNet": -330041344,
+          "superLargeNet": 1221482089
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": 908325401,
+          "smallNet": -289362082,
+          "mediumNet": -618915680,
+          "largeNet": -326873247,
+          "superLargeNet": 1235198648
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": 966799360,
+          "smallNet": -338204758,
+          "mediumNet": -628653639,
+          "largeNet": -299718190,
+          "superLargeNet": 1266517550
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": 982938212,
+          "smallNet": -351478854,
+          "mediumNet": -631603009,
+          "largeNet": -295600965,
+          "superLargeNet": 1278539177
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": 998908326,
+          "smallNet": -362837011,
+          "mediumNet": -636070200,
+          "largeNet": -288010468,
+          "superLargeNet": 1286918794
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": 1012571067,
+          "smallNet": -370692541,
+          "mediumNet": -641924347,
+          "largeNet": -269143240,
+          "superLargeNet": 1281714307
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": 1025907326,
+          "smallNet": -369264030,
+          "mediumNet": -656737589,
+          "largeNet": -254576447,
+          "superLargeNet": 1280483773
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": 1029698722,
+          "smallNet": -368571712,
+          "mediumNet": -661130570,
+          "largeNet": -254186594,
+          "superLargeNet": 1283885316
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": 1046722998,
+          "smallNet": -376638915,
+          "mediumNet": -670072809,
+          "largeNet": -239980891,
+          "superLargeNet": 1286703889
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": 1072901382,
+          "smallNet": -398394530,
+          "mediumNet": -674537618,
+          "largeNet": -234849340,
+          "superLargeNet": 1307750722
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": 1062391018,
+          "smallNet": -402911626,
+          "mediumNet": -659318092,
+          "largeNet": -214144601,
+          "superLargeNet": 1276535619
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": 1057911254,
+          "smallNet": -399190653,
+          "mediumNet": -658704977,
+          "largeNet": -207858629,
+          "superLargeNet": 1265769883
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": 1027618840,
+          "smallNet": -388118055,
+          "mediumNet": -638850451,
+          "largeNet": -200183104,
+          "superLargeNet": 1227801944
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": 1000469158,
+          "smallNet": -380838969,
+          "mediumNet": -619685579,
+          "largeNet": -188242983,
+          "superLargeNet": 1188712141
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": 1028712174,
+          "smallNet": -401546263,
+          "mediumNet": -627218242,
+          "largeNet": -170087809,
+          "superLargeNet": 1198799983
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": 1064217187,
+          "smallNet": -438170517,
+          "mediumNet": -626108654,
+          "largeNet": -182522679,
+          "superLargeNet": 1246739866
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": 1027133017,
+          "smallNet": -431563052,
+          "mediumNet": -595378127,
+          "largeNet": -203641535,
+          "superLargeNet": 1230774552
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": 975266691,
+          "smallNet": -391157299,
+          "mediumNet": -584021946,
+          "largeNet": -235483556,
+          "superLargeNet": 1210750247
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": 924424347,
+          "smallNet": -354565468,
+          "mediumNet": -569778498,
+          "largeNet": -232653463,
+          "superLargeNet": 1157077810
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": 878617433,
+          "smallNet": -304922966,
+          "mediumNet": -573661366,
+          "largeNet": -226880485,
+          "superLargeNet": 1105497918
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": 873881634,
+          "smallNet": -291986410,
+          "mediumNet": -581993613,
+          "largeNet": -229522772,
+          "superLargeNet": 1103404406
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": 854588334,
+          "smallNet": -275048827,
+          "mediumNet": -579539557,
+          "largeNet": -231168328,
+          "superLargeNet": 1085756662
+        }
+      ]
+    },
+    {
+      "code": "BK1125",
+      "name": "电子后视镜",
+      "latest": 1703.83,
+      "changePercent": -2.16,
+      "mainNet": -356637088,
+      "mainNetRatio": -2.38,
+      "leaderName": "欧菲光",
+      "leaderCode": "002456",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": 42387478,
+          "smallNet": -17323610,
+          "mediumNet": -25058598,
+          "largeNet": -17024650,
+          "superLargeNet": 59412128
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -29413357,
+          "smallNet": 24736787,
+          "mediumNet": 4695301,
+          "largeNet": -40174637,
+          "superLargeNet": 10761280
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -31392423,
+          "smallNet": 11160548,
+          "mediumNet": 20046675,
+          "largeNet": -45065032,
+          "superLargeNet": 13672609
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -45450851,
+          "smallNet": 40199110,
+          "mediumNet": 5244215,
+          "largeNet": -82054534,
+          "superLargeNet": 36603683
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -62391082,
+          "smallNet": 59931909,
+          "mediumNet": 2423797,
+          "largeNet": -109907171,
+          "superLargeNet": 47516089
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -140081702,
+          "smallNet": 123837328,
+          "mediumNet": 16253172,
+          "largeNet": -145620249,
+          "superLargeNet": 5538547
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -177774450,
+          "smallNet": 140019083,
+          "mediumNet": 37753087,
+          "largeNet": -168415778,
+          "superLargeNet": -9358672
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -172175323,
+          "smallNet": 145582686,
+          "mediumNet": 26591381,
+          "largeNet": -159511887,
+          "superLargeNet": -12663436
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -167233296,
+          "smallNet": 136393126,
+          "mediumNet": 30852252,
+          "largeNet": -155808957,
+          "superLargeNet": -11424339
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -175779891,
+          "smallNet": 135951151,
+          "mediumNet": 39826114,
+          "largeNet": -145509629,
+          "superLargeNet": -30270262
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -178729211,
+          "smallNet": 128509655,
+          "mediumNet": 50136986,
+          "largeNet": -156446638,
+          "superLargeNet": -22282573
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -173048814,
+          "smallNet": 122657021,
+          "mediumNet": 50405639,
+          "largeNet": -167925070,
+          "superLargeNet": -5123744
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -187322832,
+          "smallNet": 126590906,
+          "mediumNet": 60731941,
+          "largeNet": -168068520,
+          "superLargeNet": -19254312
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -202353585,
+          "smallNet": 134890634,
+          "mediumNet": 67471073,
+          "largeNet": -178737759,
+          "superLargeNet": -23615826
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -221488509,
+          "smallNet": 142884791,
+          "mediumNet": 78603732,
+          "largeNet": -180788013,
+          "superLargeNet": -40700496
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -255104651,
+          "smallNet": 167316534,
+          "mediumNet": 87770567,
+          "largeNet": -197269944,
+          "superLargeNet": -57834707
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -294001359,
+          "smallNet": 197331317,
+          "mediumNet": 96661313,
+          "largeNet": -204377862,
+          "superLargeNet": -89623497
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -340515050,
+          "smallNet": 233415464,
+          "mediumNet": 107273501,
+          "largeNet": -214740998,
+          "superLargeNet": -125774052
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -381170083,
+          "smallNet": 265627450,
+          "mediumNet": 115281318,
+          "largeNet": -241138149,
+          "superLargeNet": -140031934
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -396278900,
+          "smallNet": 272252714,
+          "mediumNet": 124019648,
+          "largeNet": -235347934,
+          "superLargeNet": -160930966
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -391321716,
+          "smallNet": 267558959,
+          "mediumNet": 123750835,
+          "largeNet": -236740116,
+          "superLargeNet": -154581600
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -401523831,
+          "smallNet": 272918785,
+          "mediumNet": 128610238,
+          "largeNet": -237126827,
+          "superLargeNet": -164397004
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -425403369,
+          "smallNet": 288579535,
+          "mediumNet": 136815132,
+          "largeNet": -251851660,
+          "superLargeNet": -173551709
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -437859848,
+          "smallNet": 291628470,
+          "mediumNet": 146188025,
+          "largeNet": -251634831,
+          "superLargeNet": -186225017
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -438018491,
+          "smallNet": 300203134,
+          "mediumNet": 137804522,
+          "largeNet": -255196514,
+          "superLargeNet": -182821977
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -455631085,
+          "smallNet": 302752815,
+          "mediumNet": 152845670,
+          "largeNet": -223145952,
+          "superLargeNet": -232485133
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -403264177,
+          "smallNet": 269808481,
+          "mediumNet": 133499352,
+          "largeNet": -192386585,
+          "superLargeNet": -210877592
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -315589714,
+          "smallNet": 211489611,
+          "mediumNet": 104082575,
+          "largeNet": -153628036,
+          "superLargeNet": -161961678
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -308964124,
+          "smallNet": 207023232,
+          "mediumNet": 101990104,
+          "largeNet": -135402960,
+          "superLargeNet": -173561164
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -322063291,
+          "smallNet": 213746576,
+          "mediumNet": 108351847,
+          "largeNet": -123895793,
+          "superLargeNet": -198167498
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -333680151,
+          "smallNet": 218451857,
+          "mediumNet": 115179548,
+          "largeNet": -132353084,
+          "superLargeNet": -201327067
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -339380091,
+          "smallNet": 229678487,
+          "mediumNet": 109701627,
+          "largeNet": -141197463,
+          "superLargeNet": -198182628
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -345595047,
+          "smallNet": 236601307,
+          "mediumNet": 108993763,
+          "largeNet": -135565555,
+          "superLargeNet": -210029492
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -351506532,
+          "smallNet": 247637488,
+          "mediumNet": 103869068,
+          "largeNet": -134392137,
+          "superLargeNet": -217114395
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -373218421,
+          "smallNet": 264474150,
+          "mediumNet": 108656381,
+          "largeNet": -141205953,
+          "superLargeNet": -232012468
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -389586955,
+          "smallNet": 274656397,
+          "mediumNet": 114921796,
+          "largeNet": -136405900,
+          "superLargeNet": -253181055
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -393759902,
+          "smallNet": 280933951,
+          "mediumNet": 112827621,
+          "largeNet": -144246105,
+          "superLargeNet": -249513797
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -393751132,
+          "smallNet": 287334493,
+          "mediumNet": 106407917,
+          "largeNet": -145693861,
+          "superLargeNet": -248057271
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -379562317,
+          "smallNet": 280732808,
+          "mediumNet": 98812090,
+          "largeNet": -146942782,
+          "superLargeNet": -232619535
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -357749203,
+          "smallNet": 266607067,
+          "mediumNet": 91127554,
+          "largeNet": -131622977,
+          "superLargeNet": -226126226
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -381760537,
+          "smallNet": 283457302,
+          "mediumNet": 98285881,
+          "largeNet": -136890159,
+          "superLargeNet": -244870378
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -390510646,
+          "smallNet": 291066377,
+          "mediumNet": 99444300,
+          "largeNet": -136965099,
+          "superLargeNet": -253545547
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -380611958,
+          "smallNet": 289789321,
+          "mediumNet": 90823363,
+          "largeNet": -135695681,
+          "superLargeNet": -244916277
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -392395921,
+          "smallNet": 305696446,
+          "mediumNet": 86656074,
+          "largeNet": -139915457,
+          "superLargeNet": -252480464
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -411189102,
+          "smallNet": 326859984,
+          "mediumNet": 84417068,
+          "largeNet": -134732347,
+          "superLargeNet": -276456755
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -401804239,
+          "smallNet": 326471819,
+          "mediumNet": 75724138,
+          "largeNet": -118554379,
+          "superLargeNet": -283249860
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -361881305,
+          "smallNet": 318445129,
+          "mediumNet": 43410148,
+          "largeNet": -85592789,
+          "superLargeNet": -276288516
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -371632889,
+          "smallNet": 335109490,
+          "mediumNet": 36514769,
+          "largeNet": -99903507,
+          "superLargeNet": -271729382
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -356637080,
+          "smallNet": 329329870,
+          "mediumNet": 27307250,
+          "largeNet": -95197101,
+          "superLargeNet": -261439979
+        }
+      ]
+    },
+    {
+      "code": "BK0927",
+      "name": "免税概念",
+      "latest": 1067.66,
+      "changePercent": -2.35,
+      "mainNet": -357231120,
+      "mainNetRatio": -6.47,
+      "leaderName": "海南发展",
+      "leaderCode": "002163",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -6316250,
+          "smallNet": 6588522,
+          "mediumNet": -519845,
+          "largeNet": -6849724,
+          "superLargeNet": 533474
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -36975614,
+          "smallNet": 28547967,
+          "mediumNet": 8422666,
+          "largeNet": -8582300,
+          "superLargeNet": -28393314
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -74158798,
+          "smallNet": 65082109,
+          "mediumNet": 9092601,
+          "largeNet": -36979203,
+          "superLargeNet": -37179595
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -106078391,
+          "smallNet": 100900343,
+          "mediumNet": 5151775,
+          "largeNet": -40052255,
+          "superLargeNet": -66026136
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -120936616,
+          "smallNet": 120050729,
+          "mediumNet": 873272,
+          "largeNet": -58750738,
+          "superLargeNet": -62185878
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -129789424,
+          "smallNet": 133653224,
+          "mediumNet": -3862194,
+          "largeNet": -67347557,
+          "superLargeNet": -62441867
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -142868325,
+          "smallNet": 145723848,
+          "mediumNet": -2870980,
+          "largeNet": -73961154,
+          "superLargeNet": -68907171
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -157123662,
+          "smallNet": 159797148,
+          "mediumNet": -2617307,
+          "largeNet": -76226487,
+          "superLargeNet": -80897175
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -164805359,
+          "smallNet": 166687595,
+          "mediumNet": -1890869,
+          "largeNet": -81555109,
+          "superLargeNet": -83250250
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -166728590,
+          "smallNet": 179179878,
+          "mediumNet": -12465496,
+          "largeNet": -88104919,
+          "superLargeNet": -78623671
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -161468278,
+          "smallNet": 183634940,
+          "mediumNet": -22175411,
+          "largeNet": -88506187,
+          "superLargeNet": -72962091
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -169231119,
+          "smallNet": 190259594,
+          "mediumNet": -21033240,
+          "largeNet": -92849511,
+          "superLargeNet": -76381608
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -173650933,
+          "smallNet": 198474211,
+          "mediumNet": -24837235,
+          "largeNet": -95882093,
+          "superLargeNet": -77768840
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -200543675,
+          "smallNet": 221501171,
+          "mediumNet": -20957643,
+          "largeNet": -100850233,
+          "superLargeNet": -99693442
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -215871694,
+          "smallNet": 234923660,
+          "mediumNet": -18977956,
+          "largeNet": -101939844,
+          "superLargeNet": -113931850
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -226973973,
+          "smallNet": 246268465,
+          "mediumNet": -19277046,
+          "largeNet": -108237052,
+          "superLargeNet": -118736921
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -236518573,
+          "smallNet": 259374269,
+          "mediumNet": -22843765,
+          "largeNet": -101266906,
+          "superLargeNet": -135251667
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -246051716,
+          "smallNet": 272081459,
+          "mediumNet": -26049174,
+          "largeNet": -110888237,
+          "superLargeNet": -135163479
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -248128806,
+          "smallNet": 285713601,
+          "mediumNet": -37587017,
+          "largeNet": -117286152,
+          "superLargeNet": -130842654
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -246783695,
+          "smallNet": 291622970,
+          "mediumNet": -44843178,
+          "largeNet": -118008976,
+          "superLargeNet": -128774719
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -232565940,
+          "smallNet": 290353594,
+          "mediumNet": -57813054,
+          "largeNet": -113134093,
+          "superLargeNet": -119431847
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -227195740,
+          "smallNet": 290596792,
+          "mediumNet": -63400102,
+          "largeNet": -117964261,
+          "superLargeNet": -109231479
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -232711457,
+          "smallNet": 300027601,
+          "mediumNet": -67159620,
+          "largeNet": -126345011,
+          "superLargeNet": -106366446
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -230971530,
+          "smallNet": 298606892,
+          "mediumNet": -67096710,
+          "largeNet": -127693795,
+          "superLargeNet": -103277735
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -236788120,
+          "smallNet": 306698210,
+          "mediumNet": -69683708,
+          "largeNet": -134338755,
+          "superLargeNet": -102449365
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -248814102,
+          "smallNet": 316121876,
+          "mediumNet": -67307762,
+          "largeNet": -139390938,
+          "superLargeNet": -109423164
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -253283778,
+          "smallNet": 322056148,
+          "mediumNet": -68749355,
+          "largeNet": -140764195,
+          "superLargeNet": -112519583
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -256589769,
+          "smallNet": 324242058,
+          "mediumNet": -67653656,
+          "largeNet": -144807164,
+          "superLargeNet": -111782605
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -260785903,
+          "smallNet": 326152254,
+          "mediumNet": -65378198,
+          "largeNet": -152980170,
+          "superLargeNet": -107805733
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -265421920,
+          "smallNet": 327416923,
+          "mediumNet": -61946641,
+          "largeNet": -152890292,
+          "superLargeNet": -112531628
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -271136921,
+          "smallNet": 330006050,
+          "mediumNet": -58610907,
+          "largeNet": -151572562,
+          "superLargeNet": -119564359
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -284104515,
+          "smallNet": 342629937,
+          "mediumNet": -58531901,
+          "largeNet": -154722396,
+          "superLargeNet": -129382119
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -292986329,
+          "smallNet": 349400443,
+          "mediumNet": -56420154,
+          "largeNet": -159399252,
+          "superLargeNet": -133587077
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -303630766,
+          "smallNet": 359942067,
+          "mediumNet": -56291817,
+          "largeNet": -162250054,
+          "superLargeNet": -141380712
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -299536055,
+          "smallNet": 363837184,
+          "mediumNet": -64311089,
+          "largeNet": -163621571,
+          "superLargeNet": -135914484
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -296672796,
+          "smallNet": 368013136,
+          "mediumNet": -71356529,
+          "largeNet": -160737028,
+          "superLargeNet": -135935768
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -300556729,
+          "smallNet": 372938792,
+          "mediumNet": -72382051,
+          "largeNet": -164942305,
+          "superLargeNet": -135614424
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -306121119,
+          "smallNet": 383537976,
+          "mediumNet": -77323418,
+          "largeNet": -164632465,
+          "superLargeNet": -141488654
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -309977596,
+          "smallNet": 395968145,
+          "mediumNet": -86035989,
+          "largeNet": -172947936,
+          "superLargeNet": -137029660
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -309832169,
+          "smallNet": 398745307,
+          "mediumNet": -88885354,
+          "largeNet": -171083249,
+          "superLargeNet": -138748920
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -311703386,
+          "smallNet": 407099001,
+          "mediumNet": -95359647,
+          "largeNet": -173345020,
+          "superLargeNet": -138358366
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -309938817,
+          "smallNet": 407367256,
+          "mediumNet": -97436545,
+          "largeNet": -172471595,
+          "superLargeNet": -137467222
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -319906467,
+          "smallNet": 414718289,
+          "mediumNet": -94806043,
+          "largeNet": -182774971,
+          "superLargeNet": -137131496
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -322488714,
+          "smallNet": 421583410,
+          "mediumNet": -99121608,
+          "largeNet": -184710554,
+          "superLargeNet": -137778160
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -330134732,
+          "smallNet": 434794754,
+          "mediumNet": -104671283,
+          "largeNet": -190801225,
+          "superLargeNet": -139333507
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -333234600,
+          "smallNet": 439708450,
+          "mediumNet": -106471898,
+          "largeNet": -189150558,
+          "superLargeNet": -144084042
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -335252288,
+          "smallNet": 447411340,
+          "mediumNet": -112160168,
+          "largeNet": -197971412,
+          "superLargeNet": -137280876
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -357846553,
+          "smallNet": 467390423,
+          "mediumNet": -109556953,
+          "largeNet": -215395511,
+          "superLargeNet": -142451042
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -357231117,
+          "smallNet": 468878847,
+          "mediumNet": -111647716,
+          "largeNet": -216242149,
+          "superLargeNet": -140988968
+        }
+      ]
+    },
+    {
+      "code": "BK0955",
+      "name": "C2M概念",
+      "latest": 1327.61,
+      "changePercent": -2.2,
+      "mainNet": -364665632,
+      "mainNetRatio": -4.2,
+      "leaderName": "天创时尚",
+      "leaderCode": "603608",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -15377241,
+          "smallNet": 4208365,
+          "mediumNet": 11128883,
+          "largeNet": -5131165,
+          "superLargeNet": -10246076
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -14558920,
+          "smallNet": 17447236,
+          "mediumNet": -2753446,
+          "largeNet": -19900171,
+          "superLargeNet": 5341251
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -31553137,
+          "smallNet": 31068713,
+          "mediumNet": 565823,
+          "largeNet": -14115066,
+          "superLargeNet": -17438071
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -28249900,
+          "smallNet": 42819304,
+          "mediumNet": -14603136,
+          "largeNet": -27370371,
+          "superLargeNet": -879529
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -44373182,
+          "smallNet": 53164969,
+          "mediumNet": -8756100,
+          "largeNet": -58119768,
+          "superLargeNet": 13746586
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -74167734,
+          "smallNet": 71144537,
+          "mediumNet": 3121355,
+          "largeNet": -67271896,
+          "superLargeNet": -6895838
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -84541366,
+          "smallNet": 80523533,
+          "mediumNet": 4015149,
+          "largeNet": -70956047,
+          "superLargeNet": -13585319
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -95499155,
+          "smallNet": 87599488,
+          "mediumNet": 7873385,
+          "largeNet": -87560606,
+          "superLargeNet": -7938549
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -94992181,
+          "smallNet": 93322843,
+          "mediumNet": 1646836,
+          "largeNet": -86659794,
+          "superLargeNet": -8332387
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -106370120,
+          "smallNet": 105928737,
+          "mediumNet": 459362,
+          "largeNet": -92444035,
+          "superLargeNet": -13926085
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -125718866,
+          "smallNet": 116928309,
+          "mediumNet": 8783152,
+          "largeNet": -106509152,
+          "superLargeNet": -19209714
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -128689325,
+          "smallNet": 120159233,
+          "mediumNet": 8471796,
+          "largeNet": -103849771,
+          "superLargeNet": -24839554
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -131435516,
+          "smallNet": 125832637,
+          "mediumNet": 5596516,
+          "largeNet": -117449836,
+          "superLargeNet": -13985680
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -138923859,
+          "smallNet": 136246879,
+          "mediumNet": 2638030,
+          "largeNet": -124066331,
+          "superLargeNet": -14857528
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -146366964,
+          "smallNet": 144726481,
+          "mediumNet": 1657736,
+          "largeNet": -140440223,
+          "superLargeNet": -5926741
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -150794290,
+          "smallNet": 150094771,
+          "mediumNet": 708080,
+          "largeNet": -142210307,
+          "superLargeNet": -8583983
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -158511800,
+          "smallNet": 152343309,
+          "mediumNet": 6166621,
+          "largeNet": -150848272,
+          "superLargeNet": -7663528
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -169645670,
+          "smallNet": 167057060,
+          "mediumNet": 2578741,
+          "largeNet": -155890990,
+          "superLargeNet": -13754680
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -202651319,
+          "smallNet": 194012236,
+          "mediumNet": 8629026,
+          "largeNet": -181371114,
+          "superLargeNet": -21280205
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -197053329,
+          "smallNet": 188904189,
+          "mediumNet": 8101907,
+          "largeNet": -177840605,
+          "superLargeNet": -19212724
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -190641678,
+          "smallNet": 179516102,
+          "mediumNet": 11136032,
+          "largeNet": -172000038,
+          "superLargeNet": -18641640
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -194515026,
+          "smallNet": 179843091,
+          "mediumNet": 14668920,
+          "largeNet": -174769839,
+          "superLargeNet": -19745187
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -196344566,
+          "smallNet": 178808526,
+          "mediumNet": 17536040,
+          "largeNet": -177520490,
+          "superLargeNet": -18824076
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -198147346,
+          "smallNet": 179548523,
+          "mediumNet": 18598822,
+          "largeNet": -182782233,
+          "superLargeNet": -15365113
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -205621401,
+          "smallNet": 178178045,
+          "mediumNet": 27442836,
+          "largeNet": -181236587,
+          "superLargeNet": -24384814
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -214687431,
+          "smallNet": 179057049,
+          "mediumNet": 35671788,
+          "largeNet": -182702909,
+          "superLargeNet": -31984522
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -218428775,
+          "smallNet": 183125491,
+          "mediumNet": 35306418,
+          "largeNet": -186281559,
+          "superLargeNet": -32147216
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -227156329,
+          "smallNet": 186822932,
+          "mediumNet": 40332869,
+          "largeNet": -192096732,
+          "superLargeNet": -35059597
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -225633062,
+          "smallNet": 185189878,
+          "mediumNet": 40432797,
+          "largeNet": -188735221,
+          "superLargeNet": -36897841
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -234808025,
+          "smallNet": 190406903,
+          "mediumNet": 44438767,
+          "largeNet": -189308047,
+          "superLargeNet": -45499978
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -233513229,
+          "smallNet": 186264674,
+          "mediumNet": 47286832,
+          "largeNet": -182787286,
+          "superLargeNet": -50725943
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -233061324,
+          "smallNet": 184342180,
+          "mediumNet": 48710682,
+          "largeNet": -179757874,
+          "superLargeNet": -53303450
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -233396017,
+          "smallNet": 187754447,
+          "mediumNet": 45641572,
+          "largeNet": -184679811,
+          "superLargeNet": -48716206
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -239360462,
+          "smallNet": 190192048,
+          "mediumNet": 49172522,
+          "largeNet": -186352736,
+          "superLargeNet": -53007726
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -239678696,
+          "smallNet": 190580722,
+          "mediumNet": 49125916,
+          "largeNet": -183549067,
+          "superLargeNet": -56129629
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -247107349,
+          "smallNet": 192795941,
+          "mediumNet": 54311409,
+          "largeNet": -184738062,
+          "superLargeNet": -62369287
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -244818840,
+          "smallNet": 189179003,
+          "mediumNet": 55639838,
+          "largeNet": -185116533,
+          "superLargeNet": -59702307
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -248975147,
+          "smallNet": 192780400,
+          "mediumNet": 56191631,
+          "largeNet": -183124399,
+          "superLargeNet": -65850748
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -258606006,
+          "smallNet": 199789854,
+          "mediumNet": 58905832,
+          "largeNet": -187645662,
+          "superLargeNet": -70960344
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -273720404,
+          "smallNet": 203196600,
+          "mediumNet": 70515971,
+          "largeNet": -188476492,
+          "superLargeNet": -85243912
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -290101651,
+          "smallNet": 211446031,
+          "mediumNet": 78653414,
+          "largeNet": -189510957,
+          "superLargeNet": -100590694
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -302911689,
+          "smallNet": 218761506,
+          "mediumNet": 85208000,
+          "largeNet": -187257859,
+          "superLargeNet": -115653830
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -300420397,
+          "smallNet": 212065983,
+          "mediumNet": 88312277,
+          "largeNet": -180979776,
+          "superLargeNet": -119440621
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -308200683,
+          "smallNet": 218728415,
+          "mediumNet": 89472276,
+          "largeNet": -179024052,
+          "superLargeNet": -129176631
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -317889925,
+          "smallNet": 229688103,
+          "mediumNet": 88205000,
+          "largeNet": -184898533,
+          "superLargeNet": -132991392
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -322699576,
+          "smallNet": 235021227,
+          "mediumNet": 87722980,
+          "largeNet": -189318877,
+          "superLargeNet": -133380699
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -336554889,
+          "smallNet": 249467346,
+          "mediumNet": 87089773,
+          "largeNet": -196420244,
+          "superLargeNet": -140134645
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -356107513,
+          "smallNet": 269537637,
+          "mediumNet": 86688001,
+          "largeNet": -213842765,
+          "superLargeNet": -142264748
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -364665612,
+          "smallNet": 275166654,
+          "mediumNet": 89498966,
+          "largeNet": -217669403,
+          "superLargeNet": -146996209
+        }
+      ]
+    },
+    {
+      "code": "BK0993",
+      "name": "宠物经济",
+      "latest": 767.78,
+      "changePercent": -2.65,
+      "mainNet": -377550352,
+      "mainNetRatio": -5.29,
+      "leaderName": "狮头股份",
+      "leaderCode": "600539",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -6610218,
+          "smallNet": 3526998,
+          "mediumNet": -18271,
+          "largeNet": -741837,
+          "superLargeNet": -5868381
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -5322825,
+          "smallNet": 26992028,
+          "mediumNet": -26967675,
+          "largeNet": 8392485,
+          "superLargeNet": -13715310
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -29418549,
+          "smallNet": 45876375,
+          "mediumNet": -21668196,
+          "largeNet": -14965602,
+          "superLargeNet": -14452947
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -51833931,
+          "smallNet": 60913947,
+          "mediumNet": -12920401,
+          "largeNet": -36740314,
+          "superLargeNet": -15093617
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -61063864,
+          "smallNet": 76435504,
+          "mediumNet": -20383855,
+          "largeNet": -54633222,
+          "superLargeNet": -6430642
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -63215714,
+          "smallNet": 81805269,
+          "mediumNet": -24333939,
+          "largeNet": -54215246,
+          "superLargeNet": -9000468
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -82114111,
+          "smallNet": 94551162,
+          "mediumNet": -23132474,
+          "largeNet": -68233557,
+          "superLargeNet": -13880554
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -91306045,
+          "smallNet": 104338332,
+          "mediumNet": -25719862,
+          "largeNet": -70058222,
+          "superLargeNet": -21247823
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -103653864,
+          "smallNet": 114487666,
+          "mediumNet": -24395772,
+          "largeNet": -79002059,
+          "superLargeNet": -24651805
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -111988061,
+          "smallNet": 124823411,
+          "mediumNet": -27513077,
+          "largeNet": -82175037,
+          "superLargeNet": -29813024
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -127987556,
+          "smallNet": 145157712,
+          "mediumNet": -29458680,
+          "largeNet": -95301666,
+          "superLargeNet": -32685890
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -132642802,
+          "smallNet": 153830489,
+          "mediumNet": -32127768,
+          "largeNet": -100805215,
+          "superLargeNet": -31837587
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -125653954,
+          "smallNet": 156671837,
+          "mediumNet": -42197452,
+          "largeNet": -109882790,
+          "superLargeNet": -15771164
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -130044317,
+          "smallNet": 162756554,
+          "mediumNet": -42273755,
+          "largeNet": -112586606,
+          "superLargeNet": -17457711
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -135306087,
+          "smallNet": 165453919,
+          "mediumNet": -39408867,
+          "largeNet": -121161272,
+          "superLargeNet": -14144815
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -144313180,
+          "smallNet": 170385530,
+          "mediumNet": -36145308,
+          "largeNet": -123208116,
+          "superLargeNet": -21105064
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -150389698,
+          "smallNet": 175739869,
+          "mediumNet": -36752014,
+          "largeNet": -128475565,
+          "superLargeNet": -21914133
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -153773631,
+          "smallNet": 184362241,
+          "mediumNet": -43287792,
+          "largeNet": -136556712,
+          "superLargeNet": -17216919
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -169590175,
+          "smallNet": 201923077,
+          "mediumNet": -45450922,
+          "largeNet": -145843991,
+          "superLargeNet": -23746184
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -173511251,
+          "smallNet": 207134273,
+          "mediumNet": -46542431,
+          "largeNet": -150289558,
+          "superLargeNet": -23221693
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -172235158,
+          "smallNet": 209149093,
+          "mediumNet": -49258495,
+          "largeNet": -148532511,
+          "superLargeNet": -23702647
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -174152886,
+          "smallNet": 211368641,
+          "mediumNet": -50033079,
+          "largeNet": -145353274,
+          "superLargeNet": -28799612
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -177804248,
+          "smallNet": 213883812,
+          "mediumNet": -49093499,
+          "largeNet": -145166168,
+          "superLargeNet": -32638080
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -187697580,
+          "smallNet": 221029863,
+          "mediumNet": -47211185,
+          "largeNet": -148159949,
+          "superLargeNet": -39537631
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -197781335,
+          "smallNet": 232132071,
+          "mediumNet": -48134987,
+          "largeNet": -153924195,
+          "superLargeNet": -43857140
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -201958190,
+          "smallNet": 234656548,
+          "mediumNet": -46929118,
+          "largeNet": -160022889,
+          "superLargeNet": -41935301
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -205742406,
+          "smallNet": 245053154,
+          "mediumNet": -54126998,
+          "largeNet": -156765868,
+          "superLargeNet": -48976538
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -208782229,
+          "smallNet": 250911520,
+          "mediumNet": -57608694,
+          "largeNet": -158738458,
+          "superLargeNet": -50043771
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -213297467,
+          "smallNet": 252320894,
+          "mediumNet": -55123977,
+          "largeNet": -160038613,
+          "superLargeNet": -53258854
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -221061124,
+          "smallNet": 258270783,
+          "mediumNet": -52807335,
+          "largeNet": -166820491,
+          "superLargeNet": -54240633
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -235167259,
+          "smallNet": 268131976,
+          "mediumNet": -48543936,
+          "largeNet": -166254533,
+          "superLargeNet": -68912726
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -244312721,
+          "smallNet": 275896453,
+          "mediumNet": -47618807,
+          "largeNet": -167708953,
+          "superLargeNet": -76603768
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -254686223,
+          "smallNet": 283765275,
+          "mediumNet": -44968661,
+          "largeNet": -174874415,
+          "superLargeNet": -79811808
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -258040053,
+          "smallNet": 284386728,
+          "mediumNet": -43544961,
+          "largeNet": -180002306,
+          "superLargeNet": -78037747
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -259117433,
+          "smallNet": 288546601,
+          "mediumNet": -47675242,
+          "largeNet": -182437406,
+          "superLargeNet": -76680027
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -266216105,
+          "smallNet": 294055741,
+          "mediumNet": -46196664,
+          "largeNet": -188123226,
+          "superLargeNet": -78092879
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -269346327,
+          "smallNet": 297398414,
+          "mediumNet": -46838048,
+          "largeNet": -187297928,
+          "superLargeNet": -82048399
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -275009890,
+          "smallNet": 301119893,
+          "mediumNet": -45446110,
+          "largeNet": -190823435,
+          "superLargeNet": -84186455
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -281870093,
+          "smallNet": 305027698,
+          "mediumNet": -45129545,
+          "largeNet": -193602078,
+          "superLargeNet": -88268015
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -291918517,
+          "smallNet": 310308800,
+          "mediumNet": -41044446,
+          "largeNet": -200819117,
+          "superLargeNet": -91099400
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -303557603,
+          "smallNet": 320486361,
+          "mediumNet": -38940667,
+          "largeNet": -203758281,
+          "superLargeNet": -99799322
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -312030574,
+          "smallNet": 330497848,
+          "mediumNet": -40618539,
+          "largeNet": -210409097,
+          "superLargeNet": -101621477
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -324111531,
+          "smallNet": 343236725,
+          "mediumNet": -42562283,
+          "largeNet": -211915147,
+          "superLargeNet": -112196384
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -348886778,
+          "smallNet": 361970606,
+          "mediumNet": -37738257,
+          "largeNet": -213712564,
+          "superLargeNet": -135174214
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -360965561,
+          "smallNet": 382719451,
+          "mediumNet": -44926160,
+          "largeNet": -225672034,
+          "superLargeNet": -135293527
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -367142714,
+          "smallNet": 389538782,
+          "mediumNet": -46163726,
+          "largeNet": -227323592,
+          "superLargeNet": -139819122
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -380666274,
+          "smallNet": 404390815,
+          "mediumNet": -47977028,
+          "largeNet": -236200063,
+          "superLargeNet": -144466211
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -372303635,
+          "smallNet": 414286441,
+          "mediumNet": -68598233,
+          "largeNet": -236493880,
+          "superLargeNet": -135809755
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -377550328,
+          "smallNet": 421679550,
+          "mediumNet": -70481068,
+          "largeNet": -237973741,
+          "superLargeNet": -139576587
+        }
+      ]
+    },
+    {
+      "code": "BK1069",
+      "name": "智慧灯杆",
+      "latest": 1712.42,
+      "changePercent": -1.85,
+      "mainNet": -390816160,
+      "mainNetRatio": -3.56,
+      "leaderName": "珈伟新能",
+      "leaderCode": "300317",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -198593,
+          "smallNet": 2102369,
+          "mediumNet": -2124927,
+          "largeNet": -4332257,
+          "superLargeNet": 4133664
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -17767311,
+          "smallNet": 14031885,
+          "mediumNet": 3661776,
+          "largeNet": -2631857,
+          "superLargeNet": -15135454
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": -34472226,
+          "smallNet": 13237268,
+          "mediumNet": 20824431,
+          "largeNet": -16211859,
+          "superLargeNet": -18260367
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": -42186182,
+          "smallNet": 13557675,
+          "mediumNet": 28051839,
+          "largeNet": -7343942,
+          "superLargeNet": -34842240
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": -56469883,
+          "smallNet": 20383939,
+          "mediumNet": 35512687,
+          "largeNet": 8305262,
+          "superLargeNet": -64775145
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": -110928470,
+          "smallNet": 53994060,
+          "mediumNet": 55509296,
+          "largeNet": -13496220,
+          "superLargeNet": -97432250
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": -121589086,
+          "smallNet": 63944280,
+          "mediumNet": 56178180,
+          "largeNet": -27518039,
+          "superLargeNet": -94071047
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": -130872256,
+          "smallNet": 61598897,
+          "mediumNet": 67721913,
+          "largeNet": -21842351,
+          "superLargeNet": -109029905
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": -120394542,
+          "smallNet": 56576223,
+          "mediumNet": 62090044,
+          "largeNet": -15283180,
+          "superLargeNet": -105111362
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -121406011,
+          "smallNet": 54537118,
+          "mediumNet": 65461986,
+          "largeNet": -19428322,
+          "superLargeNet": -101977689
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -106790996,
+          "smallNet": 44239107,
+          "mediumNet": 62152349,
+          "largeNet": 61652,
+          "superLargeNet": -106852648
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -100997251,
+          "smallNet": 49336174,
+          "mediumNet": 54688797,
+          "largeNet": 5555645,
+          "superLargeNet": -106552896
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -130375685,
+          "smallNet": 65282843,
+          "mediumNet": 64985501,
+          "largeNet": -10998186,
+          "superLargeNet": -119377499
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -139472616,
+          "smallNet": 69451245,
+          "mediumNet": 70090952,
+          "largeNet": 27807009,
+          "superLargeNet": -167279625
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -140584287,
+          "smallNet": 72681989,
+          "mediumNet": 67976932,
+          "largeNet": 32764070,
+          "superLargeNet": -173348357
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -144573680,
+          "smallNet": 71811172,
+          "mediumNet": 72777465,
+          "largeNet": 30738164,
+          "superLargeNet": -175311844
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -162932190,
+          "smallNet": 79170882,
+          "mediumNet": 83724663,
+          "largeNet": 24313315,
+          "superLargeNet": -187245505
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -200058342,
+          "smallNet": 100789451,
+          "mediumNet": 98887927,
+          "largeNet": 22854641,
+          "superLargeNet": -222912983
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -214318130,
+          "smallNet": 107559553,
+          "mediumNet": 106742367,
+          "largeNet": 24173722,
+          "superLargeNet": -238491852
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -219569667,
+          "smallNet": 106422116,
+          "mediumNet": 113195832,
+          "largeNet": 24549480,
+          "superLargeNet": -244119147
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -215159112,
+          "smallNet": 98944036,
+          "mediumNet": 116263918,
+          "largeNet": 10120413,
+          "superLargeNet": -225279525
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -218450858,
+          "smallNet": 96601394,
+          "mediumNet": 121893288,
+          "largeNet": 13828503,
+          "superLargeNet": -232279361
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -233761360,
+          "smallNet": 103777266,
+          "mediumNet": 130040162,
+          "largeNet": 2548263,
+          "superLargeNet": -236309623
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -242302631,
+          "smallNet": 108124444,
+          "mediumNet": 134118999,
+          "largeNet": -3506454,
+          "superLargeNet": -238796177
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -254418582,
+          "smallNet": 114692559,
+          "mediumNet": 139662245,
+          "largeNet": -10252461,
+          "superLargeNet": -244166121
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -266201606,
+          "smallNet": 121090981,
+          "mediumNet": 144694688,
+          "largeNet": -14663230,
+          "superLargeNet": -251538376
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -272682290,
+          "smallNet": 126232493,
+          "mediumNet": 146161923,
+          "largeNet": -20194631,
+          "superLargeNet": -252487659
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -276338135,
+          "smallNet": 133715621,
+          "mediumNet": 142376199,
+          "largeNet": -26930742,
+          "superLargeNet": -249407393
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -269676774,
+          "smallNet": 132982995,
+          "mediumNet": 136305680,
+          "largeNet": -27938381,
+          "superLargeNet": -241738393
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -274370707,
+          "smallNet": 131793829,
+          "mediumNet": 142142527,
+          "largeNet": -27434044,
+          "superLargeNet": -246936663
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -288691399,
+          "smallNet": 136467419,
+          "mediumNet": 151797320,
+          "largeNet": -29475927,
+          "superLargeNet": -259215472
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -289955950,
+          "smallNet": 137698596,
+          "mediumNet": 151783056,
+          "largeNet": -31954713,
+          "superLargeNet": -258001237
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -288659060,
+          "smallNet": 136608219,
+          "mediumNet": 151230416,
+          "largeNet": -38428304,
+          "superLargeNet": -250230756
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -291406927,
+          "smallNet": 138968416,
+          "mediumNet": 151355742,
+          "largeNet": -29662720,
+          "superLargeNet": -261744207
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -289059763,
+          "smallNet": 139677895,
+          "mediumNet": 148284505,
+          "largeNet": -35640677,
+          "superLargeNet": -253419086
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -282170190,
+          "smallNet": 140342683,
+          "mediumNet": 140796922,
+          "largeNet": -29901288,
+          "superLargeNet": -252268902
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -286562897,
+          "smallNet": 145381866,
+          "mediumNet": 140165823,
+          "largeNet": -34015136,
+          "superLargeNet": -252547761
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -293469308,
+          "smallNet": 150930718,
+          "mediumNet": 141457609,
+          "largeNet": -35971097,
+          "superLargeNet": -257498211
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -300615829,
+          "smallNet": 156170008,
+          "mediumNet": 142809684,
+          "largeNet": -45677298,
+          "superLargeNet": -254938531
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -311451955,
+          "smallNet": 164726882,
+          "mediumNet": 144958719,
+          "largeNet": -52995471,
+          "superLargeNet": -258456484
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -317011277,
+          "smallNet": 170924321,
+          "mediumNet": 144313607,
+          "largeNet": -55106996,
+          "superLargeNet": -261904281
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -320550704,
+          "smallNet": 170033503,
+          "mediumNet": 148747967,
+          "largeNet": -59649219,
+          "superLargeNet": -260901485
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -330955851,
+          "smallNet": 176974107,
+          "mediumNet": 152210038,
+          "largeNet": -64863171,
+          "superLargeNet": -266092680
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -339446371,
+          "smallNet": 183373704,
+          "mediumNet": 154108096,
+          "largeNet": -70236056,
+          "superLargeNet": -269210315
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -343666331,
+          "smallNet": 191790547,
+          "mediumNet": 150013572,
+          "largeNet": -75465335,
+          "superLargeNet": -268200996
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -355447095,
+          "smallNet": 202725121,
+          "mediumNet": 150862825,
+          "largeNet": -77223426,
+          "superLargeNet": -278223669
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -366596054,
+          "smallNet": 215586244,
+          "mediumNet": 149647812,
+          "largeNet": -90840125,
+          "superLargeNet": -275755929
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -383554636,
+          "smallNet": 233549839,
+          "mediumNet": 148716509,
+          "largeNet": -87766999,
+          "superLargeNet": -295787637
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -390816154,
+          "smallNet": 237130170,
+          "mediumNet": 151807389,
+          "largeNet": -88991373,
+          "superLargeNet": -301824781
+        }
+      ]
+    },
+    {
+      "code": "BK0838",
+      "name": "东北振兴",
+      "latest": 1074.5,
+      "changePercent": -2.18,
+      "mainNet": -398269408,
+      "mainNetRatio": -2.49,
+      "leaderName": "华电辽能",
+      "leaderCode": "600396",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-26 09:31",
+          "time": "09:31",
+          "mainNet": -19823159,
+          "smallNet": 10022593,
+          "mediumNet": 9891894,
+          "largeNet": -4897477,
+          "superLargeNet": -14925682
+        },
+        {
+          "timestamp": "2026-06-26 09:36",
+          "time": "09:36",
+          "mainNet": -9809501,
+          "smallNet": 4548818,
+          "mediumNet": 4950772,
+          "largeNet": 26007016,
+          "superLargeNet": -35816517
+        },
+        {
+          "timestamp": "2026-06-26 09:41",
+          "time": "09:41",
+          "mainNet": 6225116,
+          "smallNet": 484023,
+          "mediumNet": -6501083,
+          "largeNet": 45287790,
+          "superLargeNet": -39062674
+        },
+        {
+          "timestamp": "2026-06-26 09:46",
+          "time": "09:46",
+          "mainNet": 225718565,
+          "smallNet": -119812291,
+          "mediumNet": -105935418,
+          "largeNet": -624807,
+          "superLargeNet": 226343372
+        },
+        {
+          "timestamp": "2026-06-26 09:51",
+          "time": "09:51",
+          "mainNet": 159429436,
+          "smallNet": -75658041,
+          "mediumNet": -83783279,
+          "largeNet": -39797595,
+          "superLargeNet": 199227031
+        },
+        {
+          "timestamp": "2026-06-26 09:56",
+          "time": "09:56",
+          "mainNet": 166552610,
+          "smallNet": -82133379,
+          "mediumNet": -84460322,
+          "largeNet": -45822204,
+          "superLargeNet": 212374814
+        },
+        {
+          "timestamp": "2026-06-26 10:01",
+          "time": "10:01",
+          "mainNet": 140291424,
+          "smallNet": -63229230,
+          "mediumNet": -77050955,
+          "largeNet": -64172653,
+          "superLargeNet": 204464077
+        },
+        {
+          "timestamp": "2026-06-26 10:06",
+          "time": "10:06",
+          "mainNet": 75369344,
+          "smallNet": -20225854,
+          "mediumNet": -55223638,
+          "largeNet": -102064071,
+          "superLargeNet": 177433415
+        },
+        {
+          "timestamp": "2026-06-26 10:11",
+          "time": "10:11",
+          "mainNet": 27429090,
+          "smallNet": 5614647,
+          "mediumNet": -33071318,
+          "largeNet": -119628532,
+          "superLargeNet": 147057622
+        },
+        {
+          "timestamp": "2026-06-26 10:16",
+          "time": "10:16",
+          "mainNet": -48193348,
+          "smallNet": 50932494,
+          "mediumNet": -2829033,
+          "largeNet": -135179187,
+          "superLargeNet": 86985839
+        },
+        {
+          "timestamp": "2026-06-26 10:21",
+          "time": "10:21",
+          "mainNet": -74107415,
+          "smallNet": 71136059,
+          "mediumNet": 2920566,
+          "largeNet": -153173872,
+          "superLargeNet": 79066457
+        },
+        {
+          "timestamp": "2026-06-26 10:26",
+          "time": "10:26",
+          "mainNet": -75359594,
+          "smallNet": 65053972,
+          "mediumNet": 10357665,
+          "largeNet": -157768793,
+          "superLargeNet": 82409199
+        },
+        {
+          "timestamp": "2026-06-26 10:31",
+          "time": "10:31",
+          "mainNet": -91419006,
+          "smallNet": 76103006,
+          "mediumNet": 15433312,
+          "largeNet": -164277136,
+          "superLargeNet": 72858130
+        },
+        {
+          "timestamp": "2026-06-26 10:36",
+          "time": "10:36",
+          "mainNet": -100272673,
+          "smallNet": 87829161,
+          "mediumNet": 12411457,
+          "largeNet": -175793808,
+          "superLargeNet": 75521135
+        },
+        {
+          "timestamp": "2026-06-26 10:41",
+          "time": "10:41",
+          "mainNet": -114898369,
+          "smallNet": 90466114,
+          "mediumNet": 24438526,
+          "largeNet": -186654962,
+          "superLargeNet": 71756593
+        },
+        {
+          "timestamp": "2026-06-26 10:46",
+          "time": "10:46",
+          "mainNet": -114244916,
+          "smallNet": 88289157,
+          "mediumNet": 25815323,
+          "largeNet": -188141164,
+          "superLargeNet": 73896248
+        },
+        {
+          "timestamp": "2026-06-26 10:51",
+          "time": "10:51",
+          "mainNet": -139145883,
+          "smallNet": 104599706,
+          "mediumNet": 34386023,
+          "largeNet": -195437788,
+          "superLargeNet": 56291905
+        },
+        {
+          "timestamp": "2026-06-26 10:56",
+          "time": "10:56",
+          "mainNet": -176497648,
+          "smallNet": 137204622,
+          "mediumNet": 39393462,
+          "largeNet": -201332836,
+          "superLargeNet": 24835188
+        },
+        {
+          "timestamp": "2026-06-26 11:01",
+          "time": "11:01",
+          "mainNet": -208151406,
+          "smallNet": 171038534,
+          "mediumNet": 37243816,
+          "largeNet": -221440418,
+          "superLargeNet": 13289012
+        },
+        {
+          "timestamp": "2026-06-26 11:06",
+          "time": "11:06",
+          "mainNet": -213123790,
+          "smallNet": 170298227,
+          "mediumNet": 42825554,
+          "largeNet": -224830742,
+          "superLargeNet": 11706952
+        },
+        {
+          "timestamp": "2026-06-26 11:11",
+          "time": "11:11",
+          "mainNet": -217765989,
+          "smallNet": 173479281,
+          "mediumNet": 44258121,
+          "largeNet": -233582921,
+          "superLargeNet": 15816932
+        },
+        {
+          "timestamp": "2026-06-26 11:16",
+          "time": "11:16",
+          "mainNet": -207900411,
+          "smallNet": 165339792,
+          "mediumNet": 42467164,
+          "largeNet": -227424490,
+          "superLargeNet": 19524079
+        },
+        {
+          "timestamp": "2026-06-26 11:21",
+          "time": "11:21",
+          "mainNet": -210093272,
+          "smallNet": 162647646,
+          "mediumNet": 47422145,
+          "largeNet": -235577850,
+          "superLargeNet": 25484578
+        },
+        {
+          "timestamp": "2026-06-26 11:26",
+          "time": "11:26",
+          "mainNet": -205698480,
+          "smallNet": 164272127,
+          "mediumNet": 41433983,
+          "largeNet": -235199343,
+          "superLargeNet": 29500863
+        },
+        {
+          "timestamp": "2026-06-26 13:01",
+          "time": "13:01",
+          "mainNet": -201789900,
+          "smallNet": 158528529,
+          "mediumNet": 43279415,
+          "largeNet": -234303064,
+          "superLargeNet": 32513164
+        },
+        {
+          "timestamp": "2026-06-26 13:06",
+          "time": "13:06",
+          "mainNet": -202858292,
+          "smallNet": 156522681,
+          "mediumNet": 46350076,
+          "largeNet": -231316816,
+          "superLargeNet": 28458524
+        },
+        {
+          "timestamp": "2026-06-26 13:11",
+          "time": "13:11",
+          "mainNet": -196188559,
+          "smallNet": 155729337,
+          "mediumNet": 40520584,
+          "largeNet": -223528175,
+          "superLargeNet": 27339616
+        },
+        {
+          "timestamp": "2026-06-26 13:16",
+          "time": "13:16",
+          "mainNet": -204899492,
+          "smallNet": 160934785,
+          "mediumNet": 43958443,
+          "largeNet": -225074193,
+          "superLargeNet": 20174701
+        },
+        {
+          "timestamp": "2026-06-26 13:21",
+          "time": "13:21",
+          "mainNet": -235075903,
+          "smallNet": 178855645,
+          "mediumNet": 56286622,
+          "largeNet": -234556078,
+          "superLargeNet": -519825
+        },
+        {
+          "timestamp": "2026-06-26 13:26",
+          "time": "13:26",
+          "mainNet": -238577460,
+          "smallNet": 176318268,
+          "mediumNet": 62138957,
+          "largeNet": -237483724,
+          "superLargeNet": -1093736
+        },
+        {
+          "timestamp": "2026-06-26 13:31",
+          "time": "13:31",
+          "mainNet": -244091997,
+          "smallNet": 177522463,
+          "mediumNet": 66547180,
+          "largeNet": -229615259,
+          "superLargeNet": -14476738
+        },
+        {
+          "timestamp": "2026-06-26 13:36",
+          "time": "13:36",
+          "mainNet": -271370432,
+          "smallNet": 199408650,
+          "mediumNet": 71985619,
+          "largeNet": -236770406,
+          "superLargeNet": -34600026
+        },
+        {
+          "timestamp": "2026-06-26 13:41",
+          "time": "13:41",
+          "mainNet": -287625961,
+          "smallNet": 214743068,
+          "mediumNet": 73152069,
+          "largeNet": -247674597,
+          "superLargeNet": -39951364
+        },
+        {
+          "timestamp": "2026-06-26 13:46",
+          "time": "13:46",
+          "mainNet": -296718071,
+          "smallNet": 220117986,
+          "mediumNet": 77026608,
+          "largeNet": -254648404,
+          "superLargeNet": -42069667
+        },
+        {
+          "timestamp": "2026-06-26 13:51",
+          "time": "13:51",
+          "mainNet": -298850588,
+          "smallNet": 224418421,
+          "mediumNet": 74431265,
+          "largeNet": -258857546,
+          "superLargeNet": -39993042
+        },
+        {
+          "timestamp": "2026-06-26 13:56",
+          "time": "13:56",
+          "mainNet": -297510090,
+          "smallNet": 225220678,
+          "mediumNet": 72150210,
+          "largeNet": -260588055,
+          "superLargeNet": -36922035
+        },
+        {
+          "timestamp": "2026-06-26 14:01",
+          "time": "14:01",
+          "mainNet": -324508924,
+          "smallNet": 243618408,
+          "mediumNet": 80957368,
+          "largeNet": -272866518,
+          "superLargeNet": -51642406
+        },
+        {
+          "timestamp": "2026-06-26 14:06",
+          "time": "14:06",
+          "mainNet": -334020610,
+          "smallNet": 253642250,
+          "mediumNet": 80388970,
+          "largeNet": -275081506,
+          "superLargeNet": -58939104
+        },
+        {
+          "timestamp": "2026-06-26 14:11",
+          "time": "14:11",
+          "mainNet": -348832256,
+          "smallNet": 263474172,
+          "mediumNet": 86097549,
+          "largeNet": -282287392,
+          "superLargeNet": -66544864
+        },
+        {
+          "timestamp": "2026-06-26 14:16",
+          "time": "14:16",
+          "mainNet": -390212220,
+          "smallNet": 288745614,
+          "mediumNet": 101496554,
+          "largeNet": -293651774,
+          "superLargeNet": -96560446
+        },
+        {
+          "timestamp": "2026-06-26 14:21",
+          "time": "14:21",
+          "mainNet": -395058286,
+          "smallNet": 292905072,
+          "mediumNet": 102133671,
+          "largeNet": -298156411,
+          "superLargeNet": -96901875
+        },
+        {
+          "timestamp": "2026-06-26 14:26",
+          "time": "14:26",
+          "mainNet": -397597062,
+          "smallNet": 292254599,
+          "mediumNet": 105325108,
+          "largeNet": -301223897,
+          "superLargeNet": -96373165
+        },
+        {
+          "timestamp": "2026-06-26 14:31",
+          "time": "14:31",
+          "mainNet": -410407685,
+          "smallNet": 297267651,
+          "mediumNet": 113167370,
+          "largeNet": -315826131,
+          "superLargeNet": -94581554
+        },
+        {
+          "timestamp": "2026-06-26 14:36",
+          "time": "14:36",
+          "mainNet": -409795251,
+          "smallNet": 299836693,
+          "mediumNet": 110005425,
+          "largeNet": -320587698,
+          "superLargeNet": -89207553
+        },
+        {
+          "timestamp": "2026-06-26 14:41",
+          "time": "14:41",
+          "mainNet": -397555934,
+          "smallNet": 293294381,
+          "mediumNet": 104227164,
+          "largeNet": -322105002,
+          "superLargeNet": -75450932
+        },
+        {
+          "timestamp": "2026-06-26 14:46",
+          "time": "14:46",
+          "mainNet": -393695734,
+          "smallNet": 290230725,
+          "mediumNet": 103467902,
+          "largeNet": -313570831,
+          "superLargeNet": -80124903
+        },
+        {
+          "timestamp": "2026-06-26 14:51",
+          "time": "14:51",
+          "mainNet": -368818482,
+          "smallNet": 271587140,
+          "mediumNet": 97317600,
+          "largeNet": -312938280,
+          "superLargeNet": -55880202
+        },
+        {
+          "timestamp": "2026-06-26 14:56",
+          "time": "14:56",
+          "mainNet": -396468745,
+          "smallNet": 279826611,
+          "mediumNet": 116636920,
+          "largeNet": -306718190,
+          "superLargeNet": -89750555
+        },
+        {
+          "timestamp": "2026-06-26 15:00",
+          "time": "15:00",
+          "mainNet": -398269392,
+          "smallNet": 282148692,
+          "mediumNet": 116120704,
+          "largeNet": -307410728,
+          "superLargeNet": -90858664
+        }
+      ]
+    }
+  ]
+}

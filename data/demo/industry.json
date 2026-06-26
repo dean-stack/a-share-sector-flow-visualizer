@@ -1,0 +1,5520 @@
+{
+  "category": "industry",
+  "categoryLabel": "行业",
+  "mode": "balanced",
+  "requestedLimit": 12,
+  "limit": 12,
+  "fetchedAt": "2026-06-02T14:58:51.953Z",
+  "tradeDate": "2026-06-02",
+  "currentDate": "2026-06-02",
+  "updatedTime": "15:00",
+  "timeline": [
+    "09:30",
+    "09:35",
+    "09:40",
+    "09:45",
+    "09:50",
+    "09:55",
+    "10:00",
+    "10:05",
+    "10:10",
+    "10:15",
+    "10:20",
+    "10:25",
+    "10:30",
+    "10:35",
+    "10:40",
+    "10:45",
+    "10:50",
+    "10:55",
+    "11:00",
+    "11:05",
+    "11:10",
+    "11:15",
+    "11:20",
+    "11:25",
+    "11:30",
+    "13:05",
+    "13:10",
+    "13:15",
+    "13:20",
+    "13:25",
+    "13:30",
+    "13:35",
+    "13:40",
+    "13:45",
+    "13:50",
+    "13:55",
+    "14:00",
+    "14:05",
+    "14:10",
+    "14:15",
+    "14:20",
+    "14:25",
+    "14:30",
+    "14:35",
+    "14:40",
+    "14:45",
+    "14:50",
+    "14:55",
+    "15:00"
+  ],
+  "fromSnapshot": true,
+  "demo": true,
+  "fallbackReason": "???????????????????????????",
+  "source": {
+    "id": "demo-snapshot",
+    "provider": "??????",
+    "note": "??????????????????????"
+  },
+  "boards": [
+    {
+      "code": "new_dzxx",
+      "name": "电子信息",
+      "latest": 16.6766,
+      "changePercent": 1.51614,
+      "mainNet": 19451259718.61,
+      "mainNetRatio": 7.94244,
+      "leaderName": "ST浩丰",
+      "leaderCode": "sz300419",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": 1026555294.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 294840649.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": 1633338638.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -367914041.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -906702032.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -1319603359.93,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -1134058353.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1306469769.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -396119757.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -129045667.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": 99383303.67,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": 179504537.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 1513256617.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 2912244700.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 4206174058.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 4688885509.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 5018417452.35,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 5812509627.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 7105389645.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 7684544016.18,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 7900517183.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 6918503097.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 7350855111.38,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 7741526087.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 8270206423.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 10113510916.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 10989781482.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 13418546435.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 14095943835.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 15037095278.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 15694655695.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 17469809051.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 17236104043.13,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 17341547902.86,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 17352644679.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 17778413180.63,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 17815559816.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 18044887791.43,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 17353743469.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 17279288650.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 17996226159.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 18267817989.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 18426891102.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 18570576105.4,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 18820208457.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 19300745069.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 19556508428.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 19453444703.1,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -213461371.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_dzqj",
+      "name": "电子器件",
+      "latest": 22.1372,
+      "changePercent": 2.10439,
+      "mainNet": 17358196429.89,
+      "mainNetRatio": 6.361809999999999,
+      "leaderName": "力源信息",
+      "leaderCode": "sz300184",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -178245930.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -728087758.86,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": 790684199.59,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": 527858748.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": 311895971.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -833050030.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -1392444632.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1266686781.93,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": 1006031265.54,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": 1854936678.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": 3238203188.63,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": 3819291334.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 6033903880.3,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 5846337255.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 6934006663.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 7840637275.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 8059670433.34,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 8219547099.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 8993942533.62,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 9225327557.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 9347013528.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 8372172229.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 9192573238.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 9209755949.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 9284162063.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 10533199980.25,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 11184526619.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 12271648492.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 12437943209.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 13165383226.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 13700206838.59,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 15004947775.31,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 14657055256.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 14947945467.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 15180871522.37,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 16308437792.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 16165304837.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 16134387078.11,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 15333288018.25,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 15093410439.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 16393385797.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 16497871288.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 17090395906.31,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 17029376510.8,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 17090974278.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 16976664598.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 17295538949.38,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 17129556090.39,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 1130508722.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_ysjs",
+      "name": "有色金属",
+      "latest": 20.1628,
+      "changePercent": 3.49672,
+      "mainNet": 10018848773.48,
+      "mainNetRatio": 9.51596,
+      "leaderName": "XD博威合",
+      "leaderCode": "sh601137",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": 184185054.25,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 287212854.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -3974403.62,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -593352186.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -743329279.21,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -1012248303.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -1033124315.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1054723129.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -345904256.61,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": 226050438.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": 677919604.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": 798599595.8,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 1619138770.42,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 1638097393.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 1816664617.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 2129719079.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 2145200283.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 2214557307.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 2505922660.58,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 2378900735.2,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 2274976468.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 2155217424.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 2544323651.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 2729912111.8,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 2975239292.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 4016657964.83,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 5739616251.17,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 6308443554.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 6929488480.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 7624715482.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 8279984524.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 8466907686.3,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 8480959365.59,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 8618966849.57,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 8646914189.13,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 8730511091.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 8893200097.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 9486792126.29,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 9251385227.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 9066717228.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 9538773517.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 9646843316.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 9935399306.43,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 10027578571.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 10123435254.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 10087997923.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 10049350472.62,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 9960778628.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 1664073636.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_jxhy",
+      "name": "机械行业",
+      "latest": 16.6837,
+      "changePercent": 1.2753999999999999,
+      "mainNet": 4287741981.55,
+      "mainNetRatio": 3.86702,
+      "leaderName": "五洋自控",
+      "leaderCode": "sz300420",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": 688636217.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 611942057.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": 674269818.37,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": 75228814.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": 48039357.39,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -561423179.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -783863807.4,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1028315569.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -490277630.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -388995003.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -323522372.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -197969904.71,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 128216557.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 260493447.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 404201379.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 1315401101.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 1374924621.8,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 1718209411.39,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 2368873375.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 2396893325.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 2478622136.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 2046990703.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 2111178222.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 2219755237.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 2239158416.43,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 3123248168.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 3404453520.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 3565789881.9,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 3548578737.67,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 3851553601.67,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 4277349082.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 4538120578.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 4321416465.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 4471369309.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 4234180023.12,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 4444093538.15,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 4310170848.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 4484658520.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 4133611149.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 3989534648.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 4147149612.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 4129696511.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 4289836853.29,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 4254877226.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 4313895111.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 4438004254.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 4321121761.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 4208283587.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 419152928.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_qczz",
+      "name": "汽车制造",
+      "latest": 16.9688,
+      "changePercent": 0.76711,
+      "mainNet": 2557064942.92,
+      "mainNetRatio": 5.3801000000000005,
+      "leaderName": "云意电气",
+      "leaderCode": "sz300304",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": 186617940.2,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 406923295.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": 476821517.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": 255929730.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": 211665790.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": 320216703.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": 383663066.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": 265381475.55,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": 465443828.25,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": 511674174.59,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": 536349230.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": 628288935.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 776109685.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 946306070.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 1065823908.34,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 1200275464.42,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 1290131263.4,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 1395557302.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 1592723496.3,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 1592724694.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 1579555813.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 1405478330.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 1510597650.2,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 1552315660.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 1542531430.9,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 1697912976.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 1742666626.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 1818691394.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 1895214063.3,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 1965436413.58,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 2125005518.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 2437137907.27,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 2540572754.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 2537096362.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 2529104989.17,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 2586972905.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 2586168527.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 2538852706.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 2405790305.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 2329911707.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 2469185604.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 2541789331.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 2586693249.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 2687729097.1,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 2671150564.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 2649015782.38,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 2611572415.83,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 2498119604.54,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 247491525.97,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_hghy",
+      "name": "化工行业",
+      "latest": 12.1457,
+      "changePercent": 0.596131,
+      "mainNet": 2181053136.54,
+      "mainNetRatio": 2.70689,
+      "leaderName": "国瓷材料",
+      "leaderCode": "sz300285",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -109751841.27,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -746085242.97,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -818322006.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -878380969.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -919005731.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -1178642194.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -1351978716.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1453613335.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -846964213.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -631476464.9,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -406912261.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -50199749.7,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 681583351.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 588598650.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 774444266.92,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 819709446.21,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 818794407.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 865074088.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 994608420.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 1085974290.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 1008982822.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 678368302.43,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 851653513.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 912389916.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 923592960.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 1141722246.56,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 1390690220.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 1544296984.88,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 1701847536.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 1993198146.42,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 2065127856.1,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 2222543960.9,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": 1945565700.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": 1959702608.67,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": 1999674339.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": 2110024615.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": 2084288265.97,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": 2126228472.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": 1848542339.2,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": 1690598045.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": 1885373954.29,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": 2032898417.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": 2243018024.17,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": 2298304312.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": 2361178086.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": 2281090115.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": 2288569667.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": 2234248241.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 842950835.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_jzjc",
+      "name": "建筑建材",
+      "latest": 5.45,
+      "changePercent": -1.06148,
+      "mainNet": -1057052936.92,
+      "mainNetRatio": -4.67247,
+      "leaderName": "南山控股",
+      "leaderCode": "sz002314",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -62233243.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -70992905.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -3822288.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -215476829.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -387473747.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -385211509.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -367973623.63,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -549281106.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -588842062.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -672171541.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -721077510.15,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -560333212.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": -502156775.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": -532325230.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": -635412906.54,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": -606202879.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": -592376281.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": -481969472.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": -493299207.8,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": -484781059.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": -557539906.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": -589269716.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": -636535535.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": -663090584.58,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": -708180251.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": -650591224.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": -609945351.18,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": -715884452.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": -677798387.58,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": -698848773.12,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": -681129342.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": -667987257.27,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -795144825.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -817547201.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -834209410.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -833167847.31,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -886354893.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -852853535,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -974087300.57,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1021936245.15,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -970961692.68,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -938149255.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -919862172.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -986820775.1,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1009210432.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1019824289.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1001513650.58,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1089398309.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -247523986.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_ljhy",
+      "name": "酿酒行业",
+      "latest": 86.374,
+      "changePercent": -0.648807,
+      "mainNet": -1262184902.51,
+      "mainNetRatio": -8.20194,
+      "leaderName": "*ST西发",
+      "leaderCode": "sz000752",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -72988083,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 55642653.66,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -116783558.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -158564880.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -127573748.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": 212752449.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": 235848408.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": 198197359.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": 69051723.47,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -49909954.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -148968683.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -237905778.74,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": -265386510.71,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": -317737431.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": -426739250.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": -519010698.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": -566374267.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": -528193587.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": -611929149.34,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": -634595906.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": -680272864.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": -671857430.87,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": -746513840.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": -798259995.92,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": -908111167.55,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": -943541560.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": -962620789.38,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": -1021874887.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": -1017182204.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": -993143242.12,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": -1001181074.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": -979373800.29,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -940610987.35,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -987847457.45,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -1040356497.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -1056626027.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -1089591983.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -1101841587.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -1123284669.21,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1109837338.12,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -1102675666.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -1090100620.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -1104020454.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -1133617223.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1131908236.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1184705330.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1198132611.97,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1272040852.11,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -457418877.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_ysbz",
+      "name": "印刷包装",
+      "latest": 6.8352,
+      "changePercent": -2.7472,
+      "mainNet": -1369325760.7,
+      "mainNetRatio": -12.225800000000001,
+      "leaderName": "万顺新材",
+      "leaderCode": "sz300057",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -202849726.75,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -668761134.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -713532295.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -822630120.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -854634113.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -874932248.73,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -993410955.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1180715819.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -1205958261.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -1275582071.73,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -1332727530.14,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -1318009044.62,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": -1310083025.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": -1352230960.96,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": -1371013594.18,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": -1379354392.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": -1372379973.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": -1359474691.61,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": -1358940277.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": -1421829167.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": -1419885585.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": -1483850193.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": -1479939864.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": -1482674353.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": -1482717194.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": -1462534905.42,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": -1474487581.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": -1454098215.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": -1418985182.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": -1363936759.98,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": -1398079762.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": -1393383178.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -1423047416.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -1428729590.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -1422114312.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -1418924089.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -1429480620.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -1431974089.71,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -1492968657.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1508011253.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -1466657477.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -1470792930.39,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -1448761582.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -1452953509.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1417790236.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1411373954.53,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1386595059.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1363960836.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -34308129.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_cmyl",
+      "name": "传媒娱乐",
+      "latest": 7.165,
+      "changePercent": -3.10167,
+      "mainNet": -1566598296.95,
+      "mainNetRatio": -16.8537,
+      "leaderName": "*ST生物",
+      "leaderCode": "sz000504",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -168158107.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -706547049.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -862184158.68,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -954908527.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -1008378154.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -1031135009.6,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -1071805551.68,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -1218810126.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -1227862581.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -1260307559.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -1298120694.77,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -1291951672.31,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": -1271025676.18,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": -1303499232.31,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": -1352346026.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": -1365526998.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": -1366489233.28,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": -1359672297.22,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": -1360136294.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": -1396939885.57,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": -1444232408.77,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": -1503164942.42,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": -1514231382.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": -1521630896.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": -1549091844.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": -1539196223.37,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": -1556769234.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": -1539864422.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": -1528423631.71,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": -1507344435.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": -1498869934.05,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": -1441241944.66,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -1471671753.98,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -1475426969.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -1481363948.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -1463212560.09,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -1478537912.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -1495838771.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -1535572381.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1570481352.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -1552924367.35,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -1548638307.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -1534482462.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -1533691413.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1529457571.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1545142215.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1564107991.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1568154923.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -201274852.27,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_blhy",
+      "name": "玻璃行业",
+      "latest": 18.154,
+      "changePercent": 0.224105,
+      "mainNet": -1621066480.37,
+      "mainNetRatio": -7.091690000000001,
+      "leaderName": "光电股份",
+      "leaderCode": "sh600184",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": 56650095.94,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": 87689855.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": 254867857.02,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": 156963670.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": 188546481.4,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": 75723094.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": 56596493.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": 28310870.59,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": 105509699.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": 77345932.66,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": 96059469.56,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": 209465095.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": 212539372.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": 197082411.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": 224536793.19,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": 261523659.37,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": 236388653.41,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": 336288220.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": 387975834.24,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": 506935913.37,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": 534182525.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": 513722026,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": 596197521.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": 596166685.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": 577021012.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": 562885495.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": 526760753.03,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": 526064430.23,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": 503977211.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": 530225512.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": 601163352.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": 627930266.92,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -919602228.16,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -973827688.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -956587053.04,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -969479339.88,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -1087986911.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -1127619365.08,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -1194098420.68,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1253982217.91,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -1309645509.36,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -1407386404.62,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -1415177100.52,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -1466047094.73,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1500456988.73,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1529637342.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1556722958.21,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1615136058.71,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": 625963540.33,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    },
+    {
+      "code": "new_swzz",
+      "name": "生物制药",
+      "latest": 12.8523,
+      "changePercent": -1.07615,
+      "mainNet": -1778563968.45,
+      "mainNetRatio": -6.46603,
+      "leaderName": "ST海王",
+      "leaderCode": "sz000078",
+      "updatedTime": "15:00",
+      "series": [
+        {
+          "timestamp": "2026-06-02 09:30:00",
+          "time": "09:30",
+          "mainNet": -44715579.13,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:35:00",
+          "time": "09:35",
+          "mainNet": -199242057.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:40:00",
+          "time": "09:40",
+          "mainNet": -427799281.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:45:00",
+          "time": "09:45",
+          "mainNet": -481455723.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:50:00",
+          "time": "09:50",
+          "mainNet": -687998863.77,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 09:55:00",
+          "time": "09:55",
+          "mainNet": -708777812.81,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:00:00",
+          "time": "10:00",
+          "mainNet": -672160048.89,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:05:00",
+          "time": "10:05",
+          "mainNet": -810708670.29,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:10:00",
+          "time": "10:10",
+          "mainNet": -863914156.65,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:15:00",
+          "time": "10:15",
+          "mainNet": -906435144.49,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:20:00",
+          "time": "10:20",
+          "mainNet": -988483074.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:25:00",
+          "time": "10:25",
+          "mainNet": -952572648.06,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:30:00",
+          "time": "10:30",
+          "mainNet": -915223823.99,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:35:00",
+          "time": "10:35",
+          "mainNet": -885702604.97,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:40:00",
+          "time": "10:40",
+          "mainNet": -1033559703.82,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:45:00",
+          "time": "10:45",
+          "mainNet": -1078780026.4,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:50:00",
+          "time": "10:50",
+          "mainNet": -1048677590.35,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 10:55:00",
+          "time": "10:55",
+          "mainNet": -975787951.25,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:00:00",
+          "time": "11:00",
+          "mainNet": -1025024233.46,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:05:00",
+          "time": "11:05",
+          "mainNet": -1002859249.2,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:10:00",
+          "time": "11:10",
+          "mainNet": -1031063093.66,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:15:00",
+          "time": "11:15",
+          "mainNet": -1097244445.5,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:20:00",
+          "time": "11:20",
+          "mainNet": -1198444792.07,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:25:00",
+          "time": "11:25",
+          "mainNet": -1266436539.18,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 11:30:00",
+          "time": "11:30",
+          "mainNet": -1395928320.88,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:05:00",
+          "time": "13:05",
+          "mainNet": -1334379164.44,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:10:00",
+          "time": "13:10",
+          "mainNet": -1321714482.38,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:15:00",
+          "time": "13:15",
+          "mainNet": -1316283902.76,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:20:00",
+          "time": "13:20",
+          "mainNet": -1353731142.79,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:25:00",
+          "time": "13:25",
+          "mainNet": -1297512784.32,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:30:00",
+          "time": "13:30",
+          "mainNet": -1297536683.66,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:35:00",
+          "time": "13:35",
+          "mainNet": -1204551016.84,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:40:00",
+          "time": "13:40",
+          "mainNet": -1303080768.95,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:45:00",
+          "time": "13:45",
+          "mainNet": -1327669532.7,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:50:00",
+          "time": "13:50",
+          "mainNet": -1411125201.69,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 13:55:00",
+          "time": "13:55",
+          "mainNet": -1407439148.98,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:00:00",
+          "time": "14:00",
+          "mainNet": -1442991947.63,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:05:00",
+          "time": "14:05",
+          "mainNet": -1487739928.85,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:10:00",
+          "time": "14:10",
+          "mainNet": -1697595987.12,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:15:00",
+          "time": "14:15",
+          "mainNet": -1754620931.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:20:00",
+          "time": "14:20",
+          "mainNet": -1681401108.26,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:25:00",
+          "time": "14:25",
+          "mainNet": -1644581725.51,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:30:00",
+          "time": "14:30",
+          "mainNet": -1626275929.98,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:35:00",
+          "time": "14:35",
+          "mainNet": -1646999515.78,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:40:00",
+          "time": "14:40",
+          "mainNet": -1599738189.64,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:45:00",
+          "time": "14:45",
+          "mainNet": -1645129629.48,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:50:00",
+          "time": "14:50",
+          "mainNet": -1650790811.11,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 14:55:00",
+          "time": "14:55",
+          "mainNet": -1786380382.72,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        },
+        {
+          "timestamp": "2026-06-02 15:00:00",
+          "time": "15:00",
+          "mainNet": -553487793.01,
+          "smallNet": 0,
+          "mediumNet": 0,
+          "largeNet": 0,
+          "superLargeNet": 0
+        }
+      ]
+    }
+  ]
+}
